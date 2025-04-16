@@ -1,0 +1,504 @@
+<ashitacast>
+	<settings>
+		<buffupdate>false</buffupdate>
+		<statusupdate>false</statusupdate>
+		<hpupdate>false</hpupdate>
+		<autoupdate>true</autoupdate>
+	</settings>
+	<sets>
+		<set name="tp">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Skulker's Bonnet +3</head>
+			<body>Malignance Tabard</body>
+			<hands>Adhemar Wrist. +1</hands>
+			<legs>Meg. Chausses +2</legs>
+			<feet augment="S3738367325186326649">Herculean Boots</feet>
+			<neck>Asn. Gorget +2</neck>
+			<waist>Reiki Yotai</waist>
+			<ear1>Eabani Earring</ear1>
+			<ear2>Skulk. Earring +2</ear2>
+			<ring1>Gere Ring</ring1>
+			<ring2>Hetairoi Ring</ring2>
+			<back augment="S2554632705541542542">Toutatis's Cape</back>
+		</set>
+		<set name="th">
+			<sub>Sandung</sub>
+			<ammo>Per. Lucky Egg</ammo>
+			<head>Skulker's Bonnet +3</head>
+			<body>Pillager's Vest +3</body>
+			<hands>Plun. Armlets +3</hands>
+			<legs>Gleti's Breeches</legs>
+			<feet>Skulk. Poulaines +3</feet>
+			<neck>Asn. Gorget +2</neck>
+			<waist>Chaac Belt</waist>
+			<ear1>Eabani Earring</ear1>
+			<ear2>Skulk. Earring +2</ear2>
+			<ring1>Gere Ring</ring1>
+			<ring2>Hetairoi Ring</ring2>
+			<back augment="S2554632705541542542">Toutatis's Cape</back>
+		</set>
+		<set name="idle">
+			<ring1>Shneddick Ring +1</ring1>
+		</set>
+		<set name="thfws">
+			<ammo>Oshasha's Treatise</ammo>
+			<head >Nyame Helm</head>
+			<body>Nyame Mail</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Asn. Gorget +2</neck>
+			<waist>Kentarch Belt +1</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Ishvara Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Regal Ring</ring2>
+		</set>
+		<set name="dt">
+			<ammo augment="O2456978194432364">Seeth. Bomblet +1</ammo>
+			<head>Malignance Chapeau</head>
+			<body>Malignance Tabard</body>
+			<hands>Malignance Gloves</hands>
+			<legs>Malignance Tights</legs>
+			<feet augment="S3738367325186326649">Herculean Boots</feet>
+			<neck augment="O2456978194432372">Loricate Torque +1</neck>
+			<waist>Reiki Yotai</waist>
+			<ear1>Eabani Earring</ear1>
+			<ear2 augment="O2456978194432367">Odnowa Earring +1</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gere Ring</ring2>
+			<back augment="S2554632705541542542">Toutatis's Cape</back>
+		</set>
+		<set name="ae">
+			<ammo>Oshasha's Treatise</ammo>
+			<head>Nyame Helm</head>
+			<body>Nyame Mail</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Sibyl Scarf</neck>
+			<waist>Orpheus's Sash</waist>
+			<ear1>Friomisi Earring</ear1>
+			<ear2>Novio Earring</ear2>
+			<ring1>Fenrir Ring +1</ring1>
+			<ring2>Fenrir Ring +1</ring2>
+		</set>
+		<set name="ear">
+			<main augment="O257954938880229">Twashtar</main>
+			<sub augment="D2967897518348">Sandung</sub>
+			<ammo>Per. Lucky Egg</ammo>
+			<head augment="D20942457801664">Skulker's Bonnet +3</head>
+			<body>Malignance Tabard</body>
+			<hands augment="M3333">Plun. Armlets +3</hands>
+			<legs>Meg. Chausses +2</legs>
+			<feet>Skd. Jambeaux +1</feet>
+			<neck augment="O3676649291776204">Asn. Gorget +2</neck>
+			<waist>Chaac Belt</waist>
+			<ear1 augment="S881125977637244238">Skulk. Earring +1</ear1>
+			<ear2>Eabani Earring</ear2>
+			<ring1>Warp Ring</ring1>
+			<ring2>Ilabrat Ring</ring2>
+			<back augment="S2554632705541542542">Toutatis's Cape</back>
+		</set>
+		<set name="maxtp">
+			<ammo>Aurgelmir Orb +1</ammo>
+			<head>Skulker's Bonnet +3</head>
+			<body>Pillager's Vest +3</body>
+			<hands>Gleti's Gauntlets</hands>
+			<legs>Gleti's Breeches</legs>
+			<feet>Plun. Poulaines +3</feet>
+			<neck>Asn. Gorget +2</neck>
+			<waist>Reiki Yotai</waist>
+			<ear1>Dedition Earring</ear1>
+			<ear2>Skulk. Earring +1</ear2>
+			<ring1>Gere Ring</ring1>
+			<ring2>Hetairoi Ring</ring2>
+			<back augment="S2554632705541542542">Toutatis's Cape</back>
+		</set>
+		<set name="rudmid">
+			<ammo augment="O2165816950784459">Coiste Bodhar</ammo>
+			<head augment="O1529771261952443">Nyame Helm</head>
+			<body>Skulker's Vest +3</body>
+			<hands augment="O1529771261952445">Nyame Gauntlets</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck augment="O3728794451968204">Asn. Gorget +2</neck>
+			<waist augment="O2456978194432355">Kentarch Belt +1</waist>
+			<ear1 augment="S560011289">Moonshade Earring</ear1>
+			<ear2>Sherida Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Regal Ring</ring2>
+			<back augment="S81370710055425541542727">Toutatis's Cape</back>
+		</set>
+		<set name="rudhi">
+			<ammo>Crepuscular Pebble</ammo>
+			<head>Skulker's Bonnet +3</head>
+			<body>Skulker's Vest +3</body>
+			<hands augment="O1529771196416415">Gleti's Gauntlets</hands>
+			<legs augment="O1529771196416416">Gleti's Breeches</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck augment="O3728794451968204">Asn. Gorget +2</neck>
+			<waist augment="O2456978194432355">Kentarch Belt +1</waist>
+			<ear1 augment="S560011289">Moonshade Earring</ear1>
+			<ear2>Sherida Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Regal Ring</ring2>
+			<back augment="S81370710055425541542727">Toutatis's Cape</back>
+		</set>
+		<set name="manmid">
+			<ammo augment="O2165816950784459">Coiste Bodhar</ammo>
+			<head>Skulker's Bonnet +3</head>
+			<body>Skulker's Vest +3</body>
+			<hands augment="O1529771261952445">Nyame Gauntlets</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck augment="O3728794451968204">Asn. Gorget +2</neck>
+			<waist augment="O2456978194432292">Sailfi Belt +1</waist>
+			<ear1 augment="S560011289">Moonshade Earring</ear1>
+			<ear2>Sherida Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Regal Ring</ring2>
+			<back augment="S81370710055425541542727">Toutatis's Cape</back>
+		</set>
+		<set name="manhi">
+			<ammo>Crepuscular Pebble</ammo>
+			<head>Skulker's Bonnet +3</head>
+			<body>Skulker's Vest +3</body>
+			<hands augment="O1529771196416415">Gleti's Gauntlets</hands>
+			<legs augment="O1529771196416416">Gleti's Breeches</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck augment="O3728794451968204">Asn. Gorget +2</neck>
+			<waist augment="O2456978194432355">Kentarch Belt +1</waist>
+			<ear1 augment="S560011289">Moonshade Earring</ear1>
+			<ear2>Odr Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Regal Ring</ring2>
+			<back augment="S81370710055425541542727">Toutatis's Cape</back>
+		</set>
+		<set name="evismid">
+			<ammo>Yetshila +1</ammo>
+			<head augment="O2456978194432359">Blistering Sallet +1</head>
+			<body>Skulker's Vest +3</body>
+			<hands augment="D20942457801664">Adhemar Wrist. +1</hands>
+			<legs>Skulk. Culottes +3</legs>
+			<feet augment="O2079535923200417">Gleti's Boots</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Fotia Belt</waist>
+			<ear1 augment="S560011289">Moonshade Earring</ear1>
+			<ear2>Odr Earring</ear2>
+			<ring1>Begrudging Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S3739024494438518473">Toutatis's Cape</back>
+		</set>
+		<set name="evishi">
+			<ammo>Yetshila +1</ammo>
+			<head>Skulker's Bonnet +3</head>
+			<body>Skulker's Vest +3</body>
+			<hands augment="O1529771196416415">Gleti's Gauntlets</hands>
+			<legs augment="O1529771196416416">Gleti's Breeches</legs>
+			<feet augment="O2079535923200417">Gleti's Boots</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Fotia Belt</waist>
+			<ear1>Mache Earring +1</ear1>
+			<ear2>Odr Earring</ear2>
+			<ring1>Regal Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S3739024494438518473">Toutatis's Cape</back>
+		</set>
+		<set name="msmid">
+			<ammo augment="O2165816950784459">Coiste Bodhar</ammo>
+			<head augment="O1529771261952443">Nyame Helm</head>
+			<body>Skulker's Vest +3</body>
+			<hands augment="O1529771261952445">Nyame Gauntlets</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck>Rep. Plat. Medal</neck>
+			<waist augment="O2456978194432292">Sailfi Belt +1</waist>
+			<ear1>Sherida Earring</ear1>
+			<ear2>Skulk. Earring +2</ear2>
+			<ring1>Sroda Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Toutatis's Cape</back>
+		</set>
+		<set name="mshi">
+			<ammo>Crepuscular Pebble</ammo>
+			<head>Skulker's Bonnet +3</head>
+			<body augment="O1529771196416414">Gleti's Cuirass</body>
+			<hands augment="O1529771196416415">Gleti's Gauntlets</hands>
+			<legs augment="O1529771196416416">Gleti's Breeches</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck>Rep. Plat. Medal</neck>
+			<waist augment="O2456978194432292">Sailfi Belt +1</waist>
+			<ear1>Sherida Earring</ear1>
+			<ear2>Skulk. Earring +2</ear2>
+			<ring1>Sroda Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Toutatis's Cape</back>
+		</set>
+		<set name="exenmid">
+			<ammo augment="O2165816950784459">Coiste Bodhar</ammo>
+			<head>Skulker's Bonnet +3</head>
+			<body>Skulker's Vest +3</body>
+			<hands>Skulk. Armlets +3</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet augment="M1361">Plun. Poulaines +3</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Fotia Belt</waist>
+			<ear1>Sherida Earring</ear1>
+			<ear2>Skulk. Earring +2</ear2>
+			<ring1>Regal Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S255463270718575">Toutatis's Cape</back>
+		</set>
+		<set name="exenhi">
+			<ammo>Crepuscular Pebble</ammo>
+			<head>Skulker's Bonnet +3</head>
+			<body augment="O1529771196416414">Gleti's Cuirass</body>
+			<hands augment="O1529771196416415">Gleti's Gauntlets</hands>
+			<legs augment="O1529771196416416">Gleti's Breeches</legs>
+			<feet>Skulk. Poulaines +3</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Fotia Belt</waist>
+			<ear1>Sherida Earring</ear1>
+			<ear2>Skulk. Earring +2</ear2>
+			<ring1>Sroda Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S255463270718575">Toutatis's Cape</back>
+		</set>
+		<set name="sharkmid">
+			<ammo augment="O2165816950784459">Coiste Bodhar</ammo>
+			<head augment="O1529771261952443">Nyame Helm</head>
+			<body>Skulker's Vest +3</body>
+			<hands augment="O1529771261952445">Nyame Gauntlets</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck augment="O3728794451968204">Asn. Gorget +2</neck>
+			<waist augment="O2456978194432292">Sailfi Belt +1</waist>
+			<ear1 augment="S560011289">Moonshade Earring</ear1>
+			<ear2>Sherida Earring</ear2>
+			<ring1>Regal Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S2554632707541542727">Toutatis's Cape</back>
+		</set>
+		<set name="sharkhi">
+			<ammo>Crepuscular Pebble</ammo>
+			<head>Skulker's Bonnet +3</head>
+			<body>Skulker's Vest +3</body>
+			<hands augment="O1529771196416415">Gleti's Gauntlets</hands>
+			<legs augment="O1529771196416416">Gleti's Breeches</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck augment="O3728794451968204">Asn. Gorget +2</neck>
+			<waist augment="O2456978194432292">Sailfi Belt +1</waist>
+			<ear1 augment="S560011289">Moonshade Earring</ear1>
+			<ear2>Skulk. Earring +2</ear2>
+			<ring1>Regal Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S2554632707541542727">Toutatis's Cape</back>
+		</set>
+		<set name="sbmid">
+			<ammo augment="O2165816950784459">Coiste Bodhar</ammo>
+			<head augment="O1529771261952443">Nyame Helm</head>
+			<body augment="M1359">Plunderer's Vest +3</body>
+			<hands augment="O1529771261952445">Nyame Gauntlets</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck>Rep. Plat. Medal</neck>
+			<waist augment="O2456978194432292">Sailfi Belt +1</waist>
+			<ear1 augment="S560011289">Moonshade Earring</ear1>
+			<ear2>Telos Earring</ear2>
+			<ring1>Regal Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Toutatis's Cape</back>
+		</set>
+		<set name="savhi">
+			<ammo>Crepuscular Pebble</ammo>
+			<head>Skulker's Bonnet +3</head>
+			<body augment="M1359">Plunderer's Vest +3</body>
+			<hands augment="O1529771196416415">Gleti's Gauntlets</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck augment="O3728794451968204">Asn. Gorget +2</neck>
+			<waist augment="O2456978194432355">Kentarch Belt +1</waist>
+			<ear1 augment="S560011289">Moonshade Earring</ear1>
+			<ear2>Skulk. Earring +2</ear2>
+			<ring1>Regal Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Toutatis's Cape</back>
+		</set>
+		<set name="flee">
+			<feet>Pill. Poulaines +3</feet>
+		</set>
+		<set name="feint">
+			<legs augment="M1360">Plun. Culottes +3</legs>
+		</set>
+		<set name="sneak">
+			<hands>Skulk. Armlets +3</hands>
+		</set>
+		<set name="pd">
+			<hands augment="M3333">Plun. Armlets +3</hands>
+		</set>
+		<set name="trick">
+			<body augment="M1359">Plunderer's Vest +3</body>
+		</set>
+		<set name="consp">
+			<body>Skulker's Vest +3</body>
+		</set>
+		<set name="hide">
+			<body>Pillager's Vest +3</body>
+		</set>
+		<set name="hate">
+			<head>Skulker's Bonnet +3</head>
+		</set>
+		<set name="auras">
+			<head augment="M1358">Plun. Bonnet +3</head>
+		</set>
+		<set name="mug">
+			<head augment="M1358">Plun. Bonnet +3</head>
+		</set>
+		<set name="steal">
+		    <sub>Btm. Knife</sub>
+			<ammo>Barathrum</ammo>
+			<hands>Thief's Kote</hands>
+			<feet>Pill. Poulaines +3</feet>
+			<neck>Pentalagus Charm</neck>
+			<waist>Key Ring Belt</waist>
+		</set>
+		<set name="despoil">
+			<ammo>Barathrum</ammo>
+			<legs>Skulk. Culottes +3</legs>
+			<feet>Skulk. Poulaines +3</feet>
+		</set>
+		<include>
+		</include>
+	</sets>
+	<variables>
+	</variables>
+	<inputcommands>
+	</inputcommands>
+	<idlegear>
+	    <if p_status = "idle" p_ismoving="true"> 
+            <equip set= "idle"/>
+        </if> 
+	  <if p_status="engaged">
+         <if advanced="$set=tp">
+             <equip set="tp"/>
+               </if>
+        <if advanced="$set=th">
+             <equip set="th"/>
+               </if>
+        <if advanced="$set=dt">
+             <equip set="dt"/>
+               </if>
+        <if advanced="$set=maxtp">
+             <equip set="maxtp"/>
+               </if>			   
+        </if> 
+	</idlegear>
+	<preranged>
+	</preranged>
+	<midranged>
+	</midranged>
+	<premagic>
+	</premagic>
+	<midmagic>
+	</midmagic>
+	<jobability>
+	    <if ad_name="Perfect Dodge">
+		      <eqip set="pd"/>
+			</if>
+        <if ad_name="Steal">
+             <equip set="steal"/>
+            </if>
+        <if ad_name="Hide">
+             <equip set="hide"/>
+            </if>
+        <if ad_name="Sneak Attack">
+            <equip set="sneak"/>
+    		</if>
+        <if ad_name="Mug">
+             <equip set="mug"/>
+            </if>
+		<if ad_name="Trick Attack">
+            <equip set="trick"/>
+            </if>
+        <if ad_name="Accomplice">
+             <equip set="hate"/>
+            </if>
+        <if ad_name="Feint">
+            <equip set="feint"/>
+           </if>
+      	<if ad_name="Despoil">
+            <equip set="despoil"/>
+            </if>
+        <if ad_name="Collaborator">
+            <equip set="hate"/>
+            </if>
+        <if ad_name="Conspirator">
+            <equip set="consp"/>
+            </if>
+        <if ad_name="Flee">
+            <equip set="flee"/>
+            </if>			
+	</jobability>
+	<weaponskill>
+		   <if ad_name="Rudra's Storm">
+				<if p_attack=">3000">
+					<equip set="rudhi"/>
+			    </if>
+				<else>
+					<equip set="rudmid"/>
+				</else>	
+        </if>
+        <elseif ad_name="Savage Blade">
+				<if p_attack=">3000">
+					<equip set="savhi"/>
+			    </if>
+				<else>
+					<equip set="sbmid"/>
+				</else>	
+        </elseif>
+       <elseif ad_name="Mandalic Stab">
+				<if p_attack=">3000">
+					<equip set="manhi"/>
+			    </if>
+				<else>
+					<equip set="manmid"/>
+				</else>	
+        </elseif>
+	    <elseif ad_name="Evisceration">
+				<if p_attack=">3000">
+					<equip set="evishi"/>
+			    </if>
+				<else>
+					<equip set="evismid"/>
+				</else>	
+        </elseif>
+        <elseif ad_name="Mercy Stroke">
+				<if p_attack=">3000">
+					<equip set="mshi"/>
+			    </if>
+				<else>
+					<equip set="msmid"/>
+				</else>	
+        </elseif>
+         <elseif ad_name="Exenterator">
+				<if p_attack=">3000">
+					<equip set="exenhi"/>
+			    </if>
+				<else>
+					<equip set="exenmid"/>
+				</else>	
+        </elseif>
+        <elseif ad_name="Shark Bite">
+				<if p_attack=">3000">
+					<equip set="sharkhi"/>
+			    </if>
+				<else>
+					<equip set="sharkmid"/>
+				</else>	       
+        </elseif>
+        <else>
+               <equip set="sbmid"/>
+        </else>
+	</weaponskill>
+</ashitacast>

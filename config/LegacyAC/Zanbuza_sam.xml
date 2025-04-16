@@ -1,0 +1,470 @@
+<ashitacast>
+	<settings>
+		<buffupdate>false</buffupdate>
+		<statusupdate>false</statusupdate>
+		<hpupdate>false</hpupdate>
+		<autoupdate>true</autoupdate>
+	</settings>
+	<sets>
+		<set name="tp">
+			<ammo>Aurglmir Orb +1</ammo>
+			<head>Flam. Zucchetto +2</head>
+			<body augment="O2456978194432392">Tatena. Harama. +1</body>
+			<hands>Tatena. Gote +1</hands>
+			<legs augment="O2456978194432386">Tatena. Haidate +1</legs>
+			<feet augment="O2456978194432382">Tatena. Sune. +1</feet>
+			<neck>Sam. Nodowa +2</neck>
+			<waist>Ioskeha Belt +1</waist>
+			<ear1>Telos Earring</ear1>
+			<ear2>Schere Earring</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Hetairoi Ring</ring2>
+			<back augment="S18202621250048">Takaha Mantle</back>
+		</set>
+		<set name="speed">
+			<ring1>Shneddick Ring +1</ring1>
+		</set>
+		<set name="macc">
+		    <ammo>Pemphredo Tathlum</ammo>
+			<head>Kasuga Kabuto +3</head>
+			<body>Kasuga Domaru +3</body>
+			<hands>Kasuga Kote +3</hands>
+			<legs>Kasuga Haidate +3</legs>
+			<feet>Kas. Sune-Ate +3</feet>
+			<neck>Sanctity Necklace</neck>
+			<waist>Eschan Stone</waist>
+			<ear1>Digni. Earring</ear1>
+			<ear2>Crep. Earring</ear2>
+			<ring1>Metamor. Ring +1</ring1>
+			<ring2>Chirich Ring +1</ring2>
+			<back augment="S81370710055425541542542">Smertrios's Mantle</back>
+		</set>
+		<set name="ws">
+			<ammo>Knobkierrie</ammo>
+			<head>Mpaca's Cap</head>
+			<body>Nyame Mail</body>
+			<hands>Kasuga Kote +3</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Sam. Nodowa +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Thrud Earring</ear1>
+			<ear2>Moonshade Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Niqmaddu Ring</ring2>
+			<back augment="S81366415088128541542727">Smertrios's Mantle</back>
+		</set>
+		<set name="samdt">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Nyame Helm</head>
+			<body>Nyame Mail</body>
+			<hands>Wakido Kote +3</hands>
+			<legs>Kasuga Haidate +3</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Bathy Choker +1</neck>
+			<waist>Ioskeha Belt +1</waist>
+			<ear1>Telos Earring</ear1>
+			<ear2>Schere Earring</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Chirich Ring +1</ring2>
+			<back augment="S81370710055425541542542">Smertrios's Mantle</back>
+		</set>
+		<set name="jinpu">
+			<ammo>Knobkierrie</ammo>
+			<head>Nyame Helm</head>
+			<body>Nyame Mail</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Orpheus's Sash</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Schere Earring</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Smertrios's Mantle</back>
+		</set>
+		<set name="weather">
+			<ammo>Knobkierrie</ammo>
+			<head>Nyame Helm</head>
+			<body>Nyame Mail</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Hachirin-no-Obi</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Schere Earring</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Smertrios's Mantle</back>
+		</set>
+		<set name="Hijinpu">
+			<ammo>Knobkierrie</ammo>
+			<head>Nyame Helm</head>
+			<body>Nyame Mail</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Sam. Nodowa +2</neck>
+			<waist>Orpheus's Sash</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Schere Earring</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Smertrios's Mantle</back>
+		</set>
+		<set name="hiaccpdt">
+			<ammo>Amar Cluster</ammo>
+			<head>Mpaca's Cap</head>
+			<body>Mpaca's Doublet</body>
+			<hands>Wakido Kote +3</hands>
+			<legs>Mpaca's Hose</legs>
+			<feet>Mpaca's Boots</feet>
+			<neck>Sam. Nodowa +2</neck>
+			<waist>Ioskeha Belt +1</waist>
+			<ear1>Telos Earring</ear1>
+			<ear2>Schere Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Regal Ring</ring2>
+			<back augment="S81370710055425541542542">Smertrios's Mantle</back>
+		</set>
+		<set name="meditate">
+			<head>Wakido Kabuto +3</head>
+			<hands augment="M1396">Sakonji Kote +3</hands>
+		    <back augment="S81370710055425541542542">Smertrios's Mantle</back>
+		</set>
+		<set name="pdtp">
+			<ammo>Aurgelmir Orb +1</ammo>
+			<head>Kasuga Kabuto +3</head>
+			<body>Kasuga Domaru +3</body>
+			<hands>Tatena. Gote +1</hands>
+			<legs>Kasuga Haidate +3</legs>
+			<feet>Ryuo Sune-Ate +1</feet>
+			<neck>Moonlight Nodowa</neck>
+			<waist>Sweordfaetels +1</waist>
+			<ear1>Dedition Earring</ear1>
+			<ear2>Kasuga Earring +1</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Chirich Ring +1</ring2>
+			<back augment="S18202621250048">Takaha Mantle</back>
+		</set>
+		<set name="wsmax">
+			<ammo>Knobkierrie</ammo>
+			<head>Nyame Helm</head>
+			<body>Nyame Mail</body>
+			<hands>Kasuga Kote +3</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Sam. Nodowa +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Thrud Earring</ear1>
+			<ear2>Lugra Earring +1</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Regal Ring</ring2>
+			<back augment="S81366415088128541542727">Smertrios's Mantle</back>
+		</set>
+		<set name="stuff">
+			<feet>Ryuo Sune-Ate +1</feet>
+			<ear1>Dedition Earring</ear1>
+			<back augment="S81370710055425541542542">Smertrios's Mantle</back>
+		</set>
+		<set name="sampdt">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Kasuga Kabuto +3</head>
+			<body>Kasuga Domaru +3</body>
+			<hands>Wakido Kote +3</hands>
+			<legs>Kasuga Haidate +3</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Sam. Nodowa +2</neck>
+			<waist>Kentarch Belt +1</waist>
+			<ear1>Schere Earring</ear1>
+			<ear2>Dedition Earring</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Defending Ring</ring2>
+			<back augment="S81370710055425541542542">Smertrios's Mantle</back>
+		</set>
+		<set name="sek">
+			<hands>Kasuga Kote +3</hands>
+		</set>
+		<set name="sengikori">
+			<feet>Kas. Sune-Ate +3</feet>
+		</set>
+		<set name="subdt">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Kasuga Kabuto +3</head>
+			<body>Dagon Breast.</body>
+			<hands>Tatena. Gote +1</hands>
+			<legs>Kasuga Haidate +3</legs>
+			<feet>Ryuo Sune-Ate +1</feet>
+			<neck augment="O2456978194432350">Bathy Choker +1</neck>
+			<waist>Kentarch Belt +1</waist>
+			<ear1>Digni. Earring</ear1>
+			<ear2>Schere Earring</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Chirich Ring +1</ring2>
+			<back augment="S81370710055425541542542">Smertrios's Mantle</back>
+		</set>
+		<set name="Hifudo">
+			<ammo>Knobkierrie</ammo>
+			<head>Mpaca's Cap</head>
+			<body>Nyame Mail</body>
+			<hands>Kasuga Kote +3</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Kas. Sune-Ate +3</feet>
+			<neck>Sam. Nodowa +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Thrud Earring</ear1>
+			<ear2 augment="S560011289">Moonshade Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Sroda Ring</ring2>
+			<back augment="S81366415088128541542727">Smertrios's Mantle</back>
+		</set>
+		<set name="HIsho">
+			<ammo>Knobkierrie</ammo>
+			<head>Mpaca's Cap</head>
+			<body>Nyame Mail</body>
+			<hands>Kasuga Kote +3</hands>
+			<legs>Mpaca's Hose</legs>
+			<feet>Kas. Sune-Ate +3</feet>
+			<neck>Sam. Nodowa +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Thrud Earring</ear1>
+			<ear2 augment="S560011289">Moonshade Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Sroda Ring</ring2>
+			<back augment="S81366415088128541542727">Smertrios's Mantle</back>
+		</set>
+		<set name="id">
+			<ammo>Knobkierrie</ammo>
+			<head>Mpaca's Cap</head>
+			<body>Mpaca's Doublet</body>
+			<hands>Kasuga Kote +3</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Sam. Nodowa +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Thrud Earring</ear1>
+			<ear2 augment="S560011289">Moonshade Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Begrudging Ring</ring2>
+			<back augment="S81366415088128541542727">Smertrios's Mantle</back>
+		</set>
+		<set name="hiid">
+			<ammo>Knobkierrie</ammo>
+			<head>Mpaca's Cap</head>
+			<body>Nyame Mail</body>
+			<hands>Kasuga Kote +3</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Kas. Sune-Ate +3</feet>
+			<neck>Sam. Nodowa +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Thrud Earring</ear1>
+			<ear2 augment="S560011289">Moonshade Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Niqmaddu Ring</ring2>
+			<back augment="S81366415088128541542727">Smertrios's Mantle</back>
+		</set>
+		<set name="stuff">
+			<main augment="O257954938880259">Masamune</main>
+			<sub>Utu Grip</sub>
+			<ammo>Aurgelmir Orb +1</ammo>
+			<head>Kasuga Kabuto +3</head>
+			<body>Kasuga Domaru +3</body>
+			<hands augment="O2456978194432389">Tatena. Gote +1</hands>
+			<legs>Kasuga Haidate +3</legs>
+			<feet augment="D8478344691714">Ryuo Sune-Ate +1</feet>
+			<neck augment="O3728794451968210">Sam. Nodowa +2</neck>
+			<waist>Sweordfaetels +1</waist>
+			<ear1 augment="O2165816950784464">Schere Earring</ear1>
+			<ear2 augment="S1232975067234684423">Kasuga Earring +1</ear2>
+			<ring1>Shneddick Ring +1</ring1>
+			<ring2>Chirich Ring +1</ring2>
+			<back augment="S18202621250048">Takaha Mantle</back>
+		</set>
+		<set name="multp">
+			<main augment="O257954938880259">Masamune</main>
+			<sub>Utu Grip</sub>
+			<ammo>Coiste Bodhar</ammo>
+			<head>Mpaca's Cap</head>
+			<body>Mpaca's Doublet</body>
+			<hands>Tatena. Gote +1</hands>
+			<legs>Mpaca's Hose</legs>
+			<feet>Tatena. Sune. +1</feet>
+			<neck>Clotharius Torque</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Schere Earring</ear1>
+			<ear2>Brutal Earring</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Petrov Ring</ring2>
+			<back augment="S18202621250048">Takaha Mantle</back>
+		</set>
+		<set name="elews">
+			<ammo>Knobkierrie</ammo>
+			<head>Nyame Helm</head>
+			<body>Nyame Mail</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Orpheus's Sash</waist>
+			<ear1 augment="S560011289">Moonshade Earring</ear1>
+			<ear2 augment="O2165816950784464">Schere Earring</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Smertrios's Mantle</back>
+		</set>
+		<set name="hielews">
+			<ammo>Knobkierrie</ammo>
+			<head>Nyame Helm</head>
+			<body>Nyame Mail</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Sam. Nodowa +2</neck>
+			<waist>Orpheus's Sash</waist>
+			<ear1 augment="S560011289">Moonshade Earring</ear1>
+			<ear2 augment="O2165816950784464">Schere Earring</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Smertrios's Mantle</back>
+		</set>
+		<set name="back">
+			<main augment="O257954938880259">Masamune</main>
+			<sub>Utu Grip</sub>
+			<ammo>Aurgelmir Orb +1</ammo>
+			<head>Kasuga Kabuto +3</head>
+			<body>Kasuga Domaru +3</body>
+			<hands augment="O2456978194432389">Tatena. Gote +1</hands>
+			<legs>Kasuga Haidate +3</legs>
+			<feet augment="D8478344691714">Ryuo Sune-Ate +1</feet>
+			<neck augment="O3728794451968210">Sam. Nodowa +2</neck>
+			<waist>Sweordfaetels +1</waist>
+			<ear1 augment="O2165816950784464">Schere Earring</ear1>
+			<ear2 augment="S1232975067234684423">Kasuga Earring +1</ear2>
+			<ring1>Shneddick Ring +1</ring1>
+			<ring2>Chirich Ring +1</ring2>
+			<back augment="S18202621250048">Takaha Mantle</back>
+		</set>
+		<include>
+		</include>
+	</sets>
+	<variables>
+	</variables>
+	<inputcommands>
+	</inputcommands>
+	<idlegear>
+	   <if p_status = "idle" p_ismoving="true"> 
+            <equip set= "speed"/>
+     </if> 
+	      <if p_status="engaged">
+         <if advanced="$set=tp">
+             <equip set="tp"/>
+      </if>
+        <if advanced="$set=samdt">
+             <equip set="sampdt"/>
+	          </if>
+	    <if advanced="$set=subdt">
+             <equip set="subdt"/>
+              </if>
+        <if advanced="$set=pdtp">
+             <equip set="pdtp"/>
+              </if>
+		<if advanced="$set=multp">
+             <equip set="multp"/>
+              </if>				  
+	  </if>		   
+	</idlegear>
+	<preranged>
+	</preranged>
+	<midranged>
+	</midranged>
+	<premagic>
+	</premagic>
+	<midmagic>
+	</midmagic>
+	<jobability>
+	<if ad_name="Sengikori">
+	    <equip set="sengikori"/>
+		</if>
+	<if ad_name="Sekkanoki">
+	     <equip set="sek"/>
+	    </if> 
+	<if ad_name="Meditate">
+	      <equip set="meditate"/>
+	    </if>
+	<if ad_name="Warding Circle">
+	    <equip set="meditate"/>
+	    </if>
+	</jobability>
+	<weaponskill>
+    <if ad_name="Tachi: Fudo|Tachi: Enipi|Tachi: Yukikaze|Tachi: Kasha">
+		  <if advanced="$ws=hi">
+			<equip set="Hifudo"/>
+		 </if>
+			<else>
+			 <equip set="ws"/>
+			</else>
+         </if>
+      <elseif ad_name="Tachi: Shoha">
+		  <if advanced="$ws=hi">
+					<equip set="HIsho"/>
+			    </if>
+				<else>
+					<equip set="ws"/>
+				</else>	
+        </elseif>
+      <elseif ad_name="Impulse Drive">
+		  <if advanced="$ws=hi">
+					<equip set="hiid"/>
+			    </if>
+				<else>
+					<equip set="id"/>
+				</else>	
+        </elseif>		
+	    <elseif ad_name ="Tachi: Ageha: Tachi: Hobaku">
+            <equip set = "macc"/>
+        </elseif> 
+		<elseif ad_name="Tachi: Koki">
+		  <if advanced="$ws=hi">
+					<equip set="hielews"/>
+			</if>	
+            <else>  
+			  <equip set="elews"/>
+			</else>  
+		</elseif>		
+		<elseif ad_name="Tachi: Kagero">
+		  <if advanced="$ws=hi">
+					<equip set="Hielews"/>
+			</if>	
+            <else>  
+			  <equip set="elews"/>
+			</else>		
+		</elseif>	
+		<elseif ad_name="Tachi: Jinpu">
+			<if advanced="$ws=hi">	
+				<equip set ="Hijinpu"/>
+			</if>	
+            <else>  
+			  <equip set="jinpu"/>
+			</else>  
+		</elseif>
+        <elseif ad_name="Tachi: Goten">
+		  <if advanced="$ws=hi">
+				<equip set="Hielews"/>
+			</if>	
+            <else>  
+			  <equip set="elews"/>
+			</else>  
+		</elseif>	  
+       <else>
+			<if p_tp="3000">
+			   <equip set="wsmax"/>
+		    </if>
+			<else>		
+				<equip set ="ws"/>
+			</else> 
+      </else>
+	</weaponskill>
+</ashitacast>
+<waist>Hachirin-no-Obi</waist>

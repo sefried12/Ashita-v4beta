@@ -1,0 +1,346 @@
+<ashitacast>
+	<settings>
+		<buffupdate>false</buffupdate>
+		<statusupdate>false</statusupdate>
+		<hpupdate>false</hpupdate>
+		<autoupdate>true</autoupdate>
+	</settings>
+	<sets>
+		<set name="indi">
+			<main augment="O257954938880238">Idris</main>
+			<range augment="D2972269941508">Dunna</range>
+			<head>Azimuth Hood +3</head>
+			<body>Adamantite Armor</body>
+			<hands>Geo. Mitaines +3</hands>
+			<legs augment="M1448">Bagua Pants +3</legs>
+			<feet>Azimuth Gaiters +3</feet>
+			<neck augment="O3728794451968219">Bagua Charm +2</neck>
+			<waist>Isa Belt</waist>
+			<ear1 augment="O2456978194432367">Odnowa Earring +1</ear1>
+			<<ear2 augment="S26694834652812">Azimuth Earring +1</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2 augment="O2456978194432316">Gelatinous Ring +1</ring2>
+			<back augment="S2363627820">Lifestream Cape</back>
+		</set>
+		<set name="geoclos">
+			<main augment="O257954938880238">Idris</main>
+			<range augment="D2972269941508">Dunna</range>
+			<head>Azimuth Hood +3</head>
+			<body>Adamantite Armor</body>
+			<hands>Geo. Mitaines +3</hands>
+			<legs augment="M1448">Bagua Pants +3</legs>
+			<feet augment="M1449">Bagua Sandals +3</feet>
+			<neck augment="O3728794451968219">Bagua Charm +2</neck>
+			<waist>Isa Belt</waist>
+			<ear1 augment="O2456978194432367">Odnowa Earring +1</ear1>
+			<<ear2 augment="S26694834652812">Azimuth Earring +1</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2 augment="O2456978194432316">Gelatinous Ring +1</ring2>
+			<back augment="S2555484674544098414">Nantosuelta's Cape</back>
+		</set>
+		<set name="idle">
+			<main augment="O257954938880238">Idris</main>
+			<sub>Genmei Shield</sub>
+			<range augment="D2972269941508">Dunna</range>
+			<head>Azimuth Hood +3</head>
+			<body>Adamantite Armor</body>
+			<hands>Geo. Mitaines +3</hands>
+			<legs>Assid. Pants +1</legs>
+			<feet augment="M1449">Bagua Sandals +3</feet>
+			<neck augment="O3728794451968219">Bagua Charm +2</neck>
+			<waist>Isa Belt</waist>
+			<ear1 augment="O2456978194432367">Odnowa Earring +1</ear1>
+			<<ear2 augment="S26694834652812">Azimuth Earring +1</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2 augment="O2456978194432316">Gelatinous Ring +1</ring2>
+			<back augment="S2555484674544098414">Nantosuelta's Cape</back>
+		</set>
+		<set name="idle2">
+			<main augment="O257954938880238">Idris</main>
+			<sub>Genmei Shield</sub>
+			<range augment="D2972269941508">Dunna</range>
+			<head>Azimuth Hood +3</head>
+			<body>Adamantite Armor</body>
+			<hands>Geo. Mitaines +3</hands>
+			<legs>Assid. Pants +1</legs>
+			<feet augment="M1449">Bagua Sandals +3</feet>
+			<neck augment="O3728794451968219">Bagua Charm +2</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1 augment="O2456978194432367">Odnowa Earring +1</ear1>
+			<<ear2 augment="S26694834652812">Azimuth Earring +1</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Shneddick Ring +1</ring2>
+			<back augment="S2555484674544098414">Nantosuelta's Cape</back>
+		</set>
+		<set name="fc">
+			<main augment="O257954938880238">Idris</main>
+			<sub>Genmei Shield</sub>
+			<range augment="D2972269941508">Dunna</range>
+			<head augment="D21939027643331">Amalric Coif +1</head>
+			<body>Zendik Robe</body>
+			<hands augment="O1529771196416430">Agwu's Gages</hands>
+			<legs>Agwu's Slops</legs>
+			<feet augment="S10570360816654014469">Merlinic Crackows</feet>
+			<neck>Voltsurge Torque</neck>
+			<waist>Witful Belt</waist>
+			<ear1>Loquac. Earring</ear1>
+			<ear2>Malignance Earring</ear2>
+			<ring1>Rahab Ring</ring1>
+			<ring2>Kishar Ring</ring2>
+			<back augment="S2363627820">Lifestream Cape</back>
+		</set>
+		<set name="mb">
+			<main augment="O1529771196416404">Bunzi's Rod</main>
+			<sub>Ammurapi Shield</sub>
+			<ammo augment="O2456978194432343">Ghastly Tathlum +1</ammo>
+			<head>Ea Hat +1</head>
+			<body>Azimuth Coat +3</body>
+			<hands augment="O1529771196416430">Agwu's Gages</hands>
+			<legs>Azimuth Tights +3</legs>
+			<feet augment="O1529771196416432">Agwu's Pigaches</feet>
+			<neck>Sibyl Scarf</neck>
+			<waist augment="O2456978194432295">Acuity Belt +1</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Regal Earring</ear2>
+			<ring1>Freke Ring</ring1>
+			<ring2>Mujin Band</ring2>
+			<back augment="O2456978194432363">Aurist's Cape +1</back>
+		</set>
+		<set name="fn">
+			<main augment="O1529771196416404">Bunzi's Rod</main>
+			<sub>Ammurapi Shield</sub>
+			<ammo augment="O2456978194432343">Ghastly Tathlum +1</ammo>
+			<head>Azimuth Hood +3</head>
+			<body>Azimuth Coat +3</body>
+			<hands augment="O1529771196416430">Agwu's Gages</hands>
+			<legs>Azimuth Tights +3</legs>
+			<feet augment="O1529771196416432">Agwu's Pigaches</feet>
+			<neck>Sibyl Scarf</neck>
+			<waist augment="O2456978194432295">Acuity Belt +1</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Regal Earring</ear2>
+			<ring1>Freke Ring</ring1>
+			<ring2 augment="O2456978194432306">Metamor. Ring +1</ring2>
+			<back augment="O2456978194432363">Aurist's Cape +1</back>
+		</set>
+		<set name="Bh">
+			<head augment="O1529771261952443">Nyame Helm</head>
+			<body augment="O1529771261952444">Nyame Mail</body>
+			<hands augment="O1529771261952445">Nyame Gauntlets</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Fotia Belt</waist>
+			<ear1 augment="S560011289">Moonshade Earring</ear1>
+			<ear2>Domin. Earring +1</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2 augment="O2456978194432306">Metamor. Ring +1</ring2>
+			<back augment="S8138788992461318759">Nantosuelta's Cape</back>
+		</set>
+		<set name="exu">
+			<main augment="O257954938880238">Idris</main>
+			<sub>Genmei Shield</sub>
+			<range augment="D2972269941508">Dunna</range>
+			<head augment="O1529771261952443">Nyame Helm</head>
+			<body augment="O1529771261952444">Nyame Mail</body>
+			<hands augment="O1529771261952445">Nyame Gauntlets</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Fotia Belt</waist>
+			<ear1>Regal Earring</ear1>
+			<ear2>Mache Earring +1</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2 augment="O2456978194432306">Metamor. Ring +1</ring2>
+			<back augment="S8138788992461318759">Nantosuelta's Cape</back>
+		</set>
+		<set name="bol">
+			<body augment="M11540">Bagua Tunic</body>
+		</set>
+		<set name="tp">
+			<head augment="O1529771261952443">Nyame Helm</head>
+			<body augment="O1529771261952444">Nyame Mail</body>
+			<hands augment="O1529771261952445">Nyame Gauntlets</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck>Null Loop</neck>
+			<waist>Null Belt</waist>
+			<ear1>Mache Earring +1</ear1>
+			<ear2>Trux Earring</ear2>
+			<ring1>Petrov Ring</ring1>
+			<ring2>Defending Ring</ring2>
+			<back>Null Shawl</back>
+		</set>
+		<set name="macc">
+			<head>Azimuth Hood +3</head>
+			<body>Azimuth Coat +3</body>
+			<hands>Azimuth Gloves +3</hands>
+			<legs>Azimuth Tights +3</legs>
+			<feet>Azimuth Gaiters +3</feet>
+			<neck augment="O3728794451968219">Bagua Charm +2</neck>
+			<waist>Null Belt</waist>
+			<ear1>Regal Earring</ear1>
+			<ear2>Malignance Earring</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Stikini Ring +1</ring2>
+			<back>Null Shawl</back>
+		</set>
+		<set name="back">
+			<main augment="O257954938880238">Idris</main>
+			<sub>Genmei Shield</sub>
+			<range augment="D2972269941508">Dunna</range>
+			<head>Azimuth Hood +3</head>
+			<body>Adamantite Armor</body>
+			<hands>Geo. Mitaines +3</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet augment="M1449">Bagua Sandals +3</feet>
+			<neck augment="O3728794451968219">Bagua Charm +2</neck>
+			<waist>Isa Belt</waist>
+			<ear1 augment="O2456978194432367">Odnowa Earring +1</ear1>
+			<<ear2 augment="S26694834652812">Azimuth Earring +1</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2 augment="O2456978194432316">Gelatinous Ring +1</ring2>
+			<back augment="S8138788992461318759">Nantosuelta's Cape</back>
+		</set>
+		<set name="dt">
+			<range augment="D2972269941508">Dunna</range>
+			<head>Azimuth Hood +3</head>
+			<body>Adamantite Armor</body>
+			<hands>Geo. Mitaines +3</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet augment="M1449">Bagua Sandals +3</feet>
+			<neck augment="O3728794451968219">Bagua Charm +2</neck>
+			<waist>Isa Belt</waist>
+			<ear1 augment="O2456978194432367">Odnowa Earring +1</ear1>
+			<<ear2 augment="S26694834652812">Azimuth Earring +1</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2 augment="O2456978194432316">Gelatinous Ring +1</ring2>
+			<back augment="S2555484674544098414">Nantosuelta's Cape</back>
+		</set>
+		<set name="Fullc">
+			<head>Azimuth Hood +3</head>
+		</set>
+		<set name="Lifec">
+			<body>Geomancy Tunic +3</body>
+			<back augment="S8138788992461318759">Nantosuelta's Cape</back>
+		</set>
+		<set name="mending">
+			<legs augment="M1448">Bagua Pants +3</legs>
+		</set>
+		<set name="rad">
+			<feet augment="M1449">Bagua Sandals +3</feet>
+		</set>
+		<set name="ws">
+			<head augment="O1529771261952443">Nyame Helm</head>
+			<body augment="O1529771261952444">Nyame Mail</body>
+			<hands augment="O1529771261952445">Nyame Gauntlets</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet augment="O1529771261952447">Nyame Sollerets</feet>
+			<neck>Rep. Plat. Medal</neck>
+			<waist>Grunfeld Rope</waist>
+			<ear1 augment="S560011289">Moonshade Earring</ear1>
+			<ear2>Regal Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2 augment="O2456978194432306">Metamor. Ring +1</ring2>
+			<back augment="S8138788992461318759">Nantosuelta's Cape</back>
+		</set>
+		<set name="ear">
+			<main augment="O257954938880238">Idris</main>
+			<sub>Genmei Shield</sub>
+			<range augment="D2972269941508">Dunna</range>
+			<head>Azimuth Hood +3</head>
+			<body>Adamantite Armor</body>
+			<hands>Geo. Mitaines +3</hands>
+			<legs>Assid. Pants +1</legs>
+			<feet augment="M1449">Bagua Sandals +3</feet>
+			<neck augment="O3728794451968219">Bagua Charm +2</neck>
+			<waist>Isa Belt</waist>
+			<ear1 augment="O2456978194432367">Odnowa Earring +1</ear1>
+			<ear2 augment="S26694834652812">Azimuth Earring +1</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2 augment="O2456978194432316">Gelatinous Ring +1</ring2>
+			<back augment="S2555484674544098414">Nantosuelta's Cape</back>
+		</set>
+		<include>
+		</include>
+	</sets>
+	<variables>
+	</variables>
+	<inputcommands>
+	</inputcommands>
+	<idlegear>
+         <if p_status="idle">
+                        <if p_ismoving="true">
+                <equip set="idle2"/>
+                         </if>
+                           <else>
+                             <equip set="idle"/>
+                           </else>
+	   </if>
+        <if p_status="engaged">
+         <if advanced="$set=tp">
+             <equip set="tp"/>
+               </if>
+		<if advanced="$set=dt">
+		       <equip set="dt"/>
+			</if>
+     </if>			   
+	</idlegear>
+	<preranged>
+	</preranged>
+	<midranged>		
+	</midranged>
+	<premagic>
+	   <equip set="fc"/>
+	</premagic>
+	<midmagic>
+     <if ad_name="Indi-*">
+	       <equip set="indi"/>
+      </if>
+     <if ad_name="Geo-*">
+          <equip set="geoclos"/>
+		 </if> 
+	<if ad_name="Absorb*">
+                <equip set="macc"/>
+         </if>
+         <if ad_skill="Enfeeblingmagic">
+                <equip set="macc"/>
+		 </if>
+       <elseif ad_skill="Elementalmagic">		 
+         <if advanced="$midcast=mb">
+            <equip set="mb"/>
+		</elseif>	
+        <else>		
+		   <equip set="fn" />
+		</else>   
+		</elseif>		
+	</midmagic>
+	<jobability>
+	  <if ad_name="Bolster">
+	     <equip set="bol"/>
+		  </if>
+	  <if ad_name="Full Circle">
+         <equip set="Fullc"/>
+         </if>
+	<if ad_name="Mending Halation">
+         <equip set="mending"/>
+		 </if> 
+    <if ad_name="Radial Arcana">
+         <equip set="rad"/>
+         </if>		 
+    <if ad_name="Life Cycle">
+         <equip set="Lifec"/>
+         </if>		 
+	</jobability>
+	<weaponskill>
+	<if ad_name="Black Halo">
+	   <equip set="bh"/>
+	     </if>
+	<elseif ad_name="Exudation">
+        <equip set="exu"/>	
+       </elseif>
+	 <else>  
+    <equip set="ws"/>
+     </else>	
+	</weaponskill>
+</ashitacast>

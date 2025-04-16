@@ -1,0 +1,327 @@
+<ashitacast>
+	<settings>
+		<buffupdate>false</buffupdate>
+		<statusupdate>false</statusupdate>
+		<hpupdate>false</hpupdate>
+		<autoupdate>true</autoupdate>
+	</settings>
+	<sets>
+		<set name="preblood">
+			<main augment="O257954938880263">Nirvana</main>
+			<sub>Elan Strap +1</sub>
+			<ammo>Epitaph</ammo>
+			<head>Beckoner's Horn +3 </head>
+			<body>Baayami Robe +1</body>
+			<hands>Baayami Cuffs +1</hands>
+			<legs>Baayami Slops +1</legs>
+			<feet>Baaya. Sabots +1</feet>
+			<neck>Incanter's Torque</neck>
+			<waist>Kobo Obi</waist>
+			<ear1>C. Palug Earring</ear1>
+			<ear2>Lodurr Earring</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Stikini Ring +1</ring2>
+		</set>
+		<set name="idle">
+			<main augment="O257954938880263">Nirvana</main>
+			<sub>Elan Strap +1</sub>
+			<ammo>Epitaph</ammo>
+			<head>Beckoner's Horn +3</head>
+			<body>Beck. Doublet +3</body>
+			<hands>Asteria Mitts +1</hands>
+			<legs>Assid. Pants +1</legs>
+			<feet>Baaya. Sabots +1</feet>
+			<neck>Smn. Collar +2</neck>
+			<waist>Fucho-no-Obi</waist>
+			<ear1>C. Palug Earring</ear1>
+			<ear2 augment="S971880026620286215">Beck. Earring +1</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Shneddick Ring +1</ring2>
+			<back augment="S79584004511868544229486">Campestres's Cape</back>
+		</set>
+		<set name="fc">
+			<main augment="O257954938880263">Nirvana</main>
+			<sub>Elan Strap +1</sub>
+			<head augment="S1774254385985224709">Merlinic Hood</head>
+			<body>Baayami Robe +1</body>
+			<hands>Volte Gloves</hands>
+			<legs augment="S680274053">Merlinic Shalwar</legs>
+			<feet augment="S10570360816654014469">Merlinic Crackows</feet>
+			<neck>Voltsurge Torque</neck>
+			<waist>Witful Belt</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Enchntr. Earring +1</ear2>
+			<ring1>Rahab Ring</ring1>
+			<ring2>Kishar Ring</ring2>
+			<back augment="S018572">Campestres's Cape</back>
+		</set>
+		<set name="prebp">
+			<ammo>Epitaph</ammo>
+			<head>Beckoner's Horn +3 </head>
+			<body>Baayami Robe +1</body>
+			<hands>Baayami Cuffs +1</hands>
+			<legs>Baayami Slops +1</legs>
+			<feet>Baaya. Sabots +1</feet>
+			<neck>Incanter's Torque</neck>
+			<waist>Kobo Obi</waist>
+			<ear1>C. Palug Earring</ear1>
+			<ear2>Andoaa Earring</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Stikini Ring +1</ring2>
+			<back augment="S19178109542694">Conveyance Cape</back>
+		</set>
+		<set name="bpward">
+		    <main augment="D3956159876853">Espiritus</main>
+			<sub>Vox Grip</sub>
+			<ammo>Epitaph</ammo>
+			<head>Baayami Hat +1</head>
+			<body>Baayami Robe +1</body>
+			<hands>Baayami Cuffs +1</hands>
+			<legs>Baayami Slops +1</legs>
+			<feet>Baaya. Sabots +1</feet>
+			<neck>Incanter's Torque</neck>
+			<waist>Kobo Obi</waist>
+			<ear1>C. Palug Earring</ear1>
+			<ear2>Lodurr Earring</ear2>
+			<ring1>Evoker's Ring</ring1>
+			<ring2>Stikini Ring +1</ring2>
+			<back augment="S19178109542694">Conveyance Cape</back>
+		</set>
+		<set name="hybridbp">
+			<main augment="O257954938880263">Nirvana</main>
+			<sub>Elan Strap +1</sub>
+			<ammo>Epitaph</ammo>
+			<head>C. Palug Crown</head>
+			<body augment="D8195376434948">Apo. Dalmatica +1</body>
+			<hands augment="S114783544428913">Merlinic Dastanas</hands>
+			<legs augment="D8195376434948">Apogee Slacks +1</legs>
+			<feet augment="D8195376434948">Apogee Pumps +1</feet>
+			<neck>Smn. Collar +2</neck>
+			<waist>Incarnation Sash</waist>
+			<ear1>Lugalbanda Earring</ear1>
+			<ear2>Gelos Earring</ear2>
+			<ring1>Varar Ring +1</ring1>
+			<ring2>Varar Ring +1</ring2>
+			<back augment="S79708558563453544229486">Campestres's Cape</back>
+		</set>
+		<set name="pback">
+			<main augment="O257954938880263">Nirvana</main>
+			<sub>Khonsu</sub>
+			<ammo>Epitaph</ammo>
+			<head>Beckoner's Horn +3</head>
+			<body>Beck. Doublet +3</body>
+			<hands>Asteria Mitts +1</hands>
+			<legs>Assid. Pants +1</legs>
+			<feet>Beck. Pigaches +3</feet>
+			<neck>Smn. Collar +2</neck>
+			<waist>Fucho-no-Obi</waist>
+			<ear1>C. Palug Earring</ear1>
+			<ear2 augment="S971880026620286215">Beck. Earring +1</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Shneddick Ring +1</ring2>
+			<back augment="S79584004511868544229486">Campestres's Cape</back>
+		</set>
+		<set name="wep">
+			<main augment="D3956159876853">Espiritus</main>
+			<sub>Khonsu</sub>
+			<ammo>Epitaph</ammo>
+			<head>Beckoner's Horn +3</head>
+			<body>Beck. Doublet +3</body>
+			<hands>Asteria Mitts +1</hands>
+			<legs>Assid. Pants +1</legs>
+			<feet>Beck. Pigaches +3</feet>
+			<neck>Smn. Collar +2</neck>
+			<waist>Fucho-no-Obi</waist>
+			<ear1>C. Palug Earring</ear1>
+			<ear2 augment="S971880026620286215">Beck. Earring +1</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Shneddick Ring +1</ring2>
+			<back augment="S79584004511868544229486">Campestres's Cape</back>
+		</set>
+		<set name="petengage">
+			<main augment="O257954938880263">Nirvana</main>
+			<sub>Elan Strap +1</sub>
+			<ammo>Epitaph</ammo>
+			<head>Beckoner's Horn +3</head>
+			<body>Glyphic Doublet +3</body>
+			<hands>Convo. Bracers +3</hands>
+			<legs>Beck. Spats +3</legs>
+			<feet>Bunzi's Sabots</feet>
+			<neck>Shulmanu Collar</neck>
+			<waist>Incarnation Sash</waist>
+			<ear1>Sroda Earring</ear1>
+			<ear2 augment="S971880026620286215">Beck. Earring +1</ear2>
+			<ring1>C. Palug Ring</ring1>
+			<ring2>Varar Ring +1</ring2>
+			<back augment="S79584004511868544229486">Campestres's Cape</back>
+		</set>
+		<set name="staff">
+			<main augment="D3956159876853">Espiritus</main>
+			<sub>Khonsu</sub>
+			<ammo>Epitaph</ammo>
+			<head>Beckoner's Horn +3</head>
+			<body>Beck. Doublet +3</body>
+			<hands>Asteria Mitts +1</hands>
+			<legs>Assid. Pants +1</legs>
+			<feet>Beck. Pigaches +3</feet>
+			<neck>Smn. Collar +2</neck>
+			<waist>Fucho-no-Obi</waist>
+			<ear1>C. Palug Earring</ear1>
+			<ear2 augment="S971880026620286215">Beck. Earring +1</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Shneddick Ring +1</ring2>
+			<back augment="S79584004511868544229486">Campestres's Cape</back>
+		</set>
+		<set name="magbp">
+			<main>Grioavolr</main>
+			<sub>Elan Strap +1</sub>
+			<ammo>Epitaph</ammo>
+			<head>C. Palug Crown</head>
+			<body augment="D8195376434948">Apo. Dalmatica +1</body>
+			<hands augment="S8686694574294928772">Merlinic Dastanas</hands>
+			<legs>Enticer's Pants</legs>
+			<feet augment="D8195376434948">Apogee Pumps +1</feet>
+			<neck>Smn. Collar +2</neck>
+			<waist>Regal Belt</waist>
+			<ear1>Lugalbanda Earring</ear1>
+			<ear2 augment="S971880026620286215">Beck. Earring +1</ear2>
+			<ring1>Varar Ring +1</ring1>
+			<ring2>Varar Ring +1</ring2>
+			<back augment="S79708558563453544229486">Campestres's Cape</back>
+		</set>
+		<set name="pysbp">
+			<main augment="O257954938880263">Nirvana</main>
+			<sub>Elan Strap +1</sub>
+			<ammo>Epitaph</ammo>
+			<head augment="D8195376566020">Apogee Crown +1</head>
+			<body>Con. Doublet +3</body>
+			<hands augment="S60491551582315">Merlinic Dastanas</hands>
+			<legs augment="D3951595623304">Apogee Slacks +1</legs>
+			<feet>Beck. Pigaches +3</feet>
+			<neck>Smn. Collar +2</neck>
+			<waist>Incarnation Sash</waist>
+			<ear1>Lugalbanda Earring</ear1>
+			<ear2 augment="S971880026620286215">Beck. Earring +1</ear2>
+			<ring1>Varar Ring +1</ring1>
+			<ring2>Varar Ring +1</ring2>
+			<back augment="S79584004511868544229486">Campestres's Cape</back>
+		</set>
+		<set name="elesi">
+			<main augment="D3956159876853">Espiritus</main>
+			<sub>Khonsu</sub>
+			<ammo>Epitaph</ammo>
+			<head>Baayami Hat +1</head>
+			<body>Baayami Robe +1</body>
+			<hands>Baayami Cuffs +1</hands>
+			<legs>Baayami Slops +1</legs>
+			<feet>Beck. Pigaches +3</feet>
+			<neck>Incanter's Torque</neck>
+			<waist>Kobo Obi</waist>
+			<ear1>C. Palug Earring</ear1>
+			<ear2>Andoaa Earring</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Stikini Ring +1</ring2>
+			<back augment="S19178109542694">Conveyance Cape</back>
+		</set>
+		<set name="AF">
+			<head augment="M11534">Glyphic Horn +1</head>
+		</set>
+		<set name="pysbp1">
+			<main augment="O257954938880263">Nirvana</main>
+			<sub>Elan Strap +1</sub>
+			<ammo augment="O2165816950784460">Epitaph</ammo>
+			<head augment="S54362348709995">Helios Band</head>
+			<body>Glyphic Doublet +3</body>
+			<hands augment="S54362348709995">Helios Gloves</hands>
+			<legs augment="D3951595623304">Apogee Slacks +1</legs>
+			<feet augment="S54362348709995">Helios Boots</feet>
+			<neck augment="O3728794451968213">Smn. Collar +2</neck>
+			<waist>Incarnation Sash</waist>
+			<ear1>Lugalbanda Earring</ear1>
+			<ear2>Sroda Earring</ear2>
+			<ring1>C. Palug Ring</ring1>
+			<ring2>Varar Ring +1</ring2>
+			<back augment="S79584004511868544229486">Campestres's Cape</back>
+		</set>
+		<set name="macc">
+			<main augment="S6200280247537745157">Grioavolr</main>
+			<ammo augment="O2165816950784460">Epitaph</ammo>
+			<head>Beckoner's Horn +3</head>
+			<body>Beck. Doublet +3</body>
+			<hands augment="O2456978194432353">Lamassu Mitts +1</hands>
+			<legs>Beck. Spats +3</legs>
+			<feet>Beck. Pigaches +3</feet>
+			<neck augment="O3728794451968213">Smn. Collar +2</neck>
+			<waist>Regal Belt</waist>
+			<ear1>Enmerkar Earring</ear1>
+			<ear2 augment="S971880026620286215">Beck. Earring +1</ear2>
+			<ring1>C. Palug Ring</ring1>
+			<ring2>Evoker's Ring</ring2>
+			<back augment="S79708558563453544229486">Campestres's Cape</back>
+		</set>
+		<include>
+		</include>
+	</sets>
+	<variables>
+	</variables>
+	<inputcommands>
+	</inputcommands>
+	<idlegear>
+	     <if p_status = "idle"> 
+           <equip set= "idle"/>
+			</if>
+		<if pet_status="engaged">
+            <equip set="petengage"/>
+			</if>
+	</idlegear>
+	<preranged>
+	</preranged>
+	<midranged>
+	</midranged>
+	<premagic>
+	     <equip set="fc"/>
+	</premagic>
+	<midmagic>
+		<if ad_skill="Summoning">
+		  <equip set="idle"/>
+		</if>
+	</midmagic>
+	<jobability>
+	    <if ad_type="bloodpactrage|bloodpactward">
+		      <equip set="prebp"/>
+			</if>
+		<if ad_name="Elemental Siphon">
+              <equip set="elesi"/>
+            </if>			  
+	</jobability>
+	     <if ad_name="Astral Flow">
+		      <equip set="AF"/>
+            </if> 			  
+	<weaponskill>
+	</weaponskill>
+	<petskill>
+	   <if ad_name="Lunatic Voice|Lunar Cry|Mewing Lullaby|Lunar Roar|Slowga|Ultimate Terror|Sleepga|Bitter Elegy|Eerie Eye|Deconstruction|Tidal Roar|Diamond Storm|Shock Squall|Pavor Nocturnus">
+		   <equip set="macc"/>
+		   </if>
+	   <if ad_name="Altana's Favor|Healing Ruby*|Raise II|Aerial Armor|Frost Armor|Reraise II|Rolling Thunder|Katabatic Blades|Whispering Wind|Crimson Howl|Lightning Armor|Chinook|Ecliptic Growl|Glittering Ruby|Earthen Ward|Spring Water|Hastega*|Noctoshield|Eclptic Howl|Dream Shroud|Perfect Defense|Earthen Armor|Fleet Wind|Inferno Howl|Wind's Blessing|Soothing Ruby|Heavenward Howl|Pacifying Ruby|Soothing Current| Crystal Blessing|Chronoshift">
+	        <equip set="bpward"/>
+		</if>
+	    <if ad_name="Punch|Rock Throw|Barracuda Dive|Claw|Welt|Axe Kick|Shock Strike|Camisado|Regal Scratch|Poison Nails|Moonlit Charge|Cresent Fang|Rock Buster|Roudhouse|Tail Whip|Double Punch|Megalith Throw|Double Slap|Eclipse Bite|Moutain Buster|Spinning Dive|Predator Claws|Rush|Chaotic Strike|Volt Strike|Hysteric Assault|Crag Throw|Blindside|Regal Gash">
+	        <if eq_main="Nirvana" buffactive="272">
+					<equip set="pysbp"/>
+			</if>
+			<else>
+				<equip set="pysbp1"/>
+			</else>
+		</if>	
+       <if ad_name="Inferno|Earthen Fury|Tidal Wave|Aerial Blast|Clarsach Call|Diamond Dust|Judgement Bolt|Thunderspark|Searing Light|Howling Moon|Ruinous Omen|Fire*|Stone*|Water*|Aero*|Blizzard*|Thunder*|Cure*|Holy*|Meteorite|Sonic Buffet|Nether Blast|Zantesuken|Meteor Strike|Geocrush|Grand Fall|Wind Blade|Tornado*|Heavenly Strike|Thunderstorm|Level ? Holy|Holy Mist|Lunar Bay|Night Terror|Conflag Strike|Impact">
+	        <equip set="magbp"/>
+			</if>
+		<if ad_name="Burning Strike|Flaming Crush">
+		    <equip set="hybridbp"/>
+			</if>
+	</petskill>		
+	<petspell>
+	  <equip set="magbp"/>
+	</petsspell>
+</ashitacast>

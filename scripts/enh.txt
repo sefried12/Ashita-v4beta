@@ -1,0 +1,37 @@
+/ma Barfire <me> 
+/wait 3.8
+/ma Barblizzard <me>
+/wait 3.8
+/ma Baraero <me>
+/wait 3.8
+/ma Barstone <me>
+/wait 3.8
+/ma Barthunder <me> 
+/wait 3.8
+/ma Barstone <me>
+/wait 3.8
+/ma Barfire <me> 
+/wait 3.8
+/ma Barblizzard <me>
+/wait 3.8
+/ma Baraero <me>
+/wait 3.8
+/ma Barstone <me>
+/wait 3.8
+/ma Barthunder <me> 
+/wait 3.8
+/ma Barstone <me>
+/wait 3.8
+/ma Barfire <me> 
+/wait 3.8
+/ma Barblizzard <me>
+/wait 3.8
+/ma Baraero <me>
+/wait 3.8
+/ma Barstone <me>
+/wait 3.8
+/ma Barthunder <me> 
+/wait 3.8
+/ma Barstone <me>
+/wait 3.8
+/echo done

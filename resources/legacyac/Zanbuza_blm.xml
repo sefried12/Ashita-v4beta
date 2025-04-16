@@ -1,0 +1,314 @@
+<ashitacast>
+	<settings>
+		<buffupdate>false</buffupdate>
+		<statusupdate>false</statusupdate>
+		<hpupdate>false</hpupdate>
+		<autoupdate>true</autoupdate>
+	</settings>
+	<sets>
+		<set name="mb">
+		    <main augment="O1529771196416404">Bunzi's Rod</main>
+			<sub>Ammurapi Shield</sub>
+			<ammo>Ghastly Tathlum +1</ammo>
+			<head>Ea Hat +1</head>
+			<body>Wicce Coat +3</body>
+			<hands>Agwu's Gages</hands>
+			<legs>Wicce Chausses +3</legs>
+			<feet>Agwu's Pigaches</feet>
+			<neck>Src. Stole +2</neck>
+			<waist>Hachirin-no-Obi</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Regal Earring</ear2>
+			<ring1>Metamor. Ring +1</ring1>
+			<ring2>Freke Ring</ring2>
+			<back augment="S81383595743748541542533">Taranus's Cape</back>
+		</set>
+		<set name="mb2">
+		    <main augment="O1529771196416404">Bunzi's Rod</main>
+			<sub>Ammurapi Shield</sub>
+			<ammo>Ghastly Tathlum +1</ammo>
+			<head>Ea Hat +1</head>
+			<body>Spaekona's Coat +3</body>
+			<hands>Agwu's Gages</hands>
+			<legs>Wicce Chausses +3</legs>
+			<feet>Agwu's Pigaches</feet>
+			<neck>Src. Stole +2</neck>
+			<waist>Hachirin-no-Obi</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Regal Earring</ear2>
+			<ring1>Metamor. Ring +1</ring1>
+			<ring2>Freke Ring</ring2>
+			<back augment="S255541914018565">Taranus's Cape</back>
+		</set>
+		<set name="mb3">
+		    <main augment="O1529771196416404">Bunzi's Rod</main>
+			<sub>Ammurapi Shield</sub>
+			<ammo>Ghastly Tathlum +1</ammo>
+			<head>Ea Hat +1</head>
+			<body>Spaekona's Coat +3</body>
+			<hands>Ea Cuffs +1</hands>
+			<legs>Wicce Chausses +3</legs>
+			<feet>Agwu's Pigaches</feet>
+			<neck>Src. Stole +2</neck>
+			<waist>Acuity Belt +1</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Regal Earring</ear2>
+			<ring1>Metamor. Ring +1</ring1>
+			<ring2>Freke Ring</ring2>
+			<back augment="S81383595743748541542533">Taranus's Cape</back>
+		</set>
+		<set name="dna">
+		    <sub>Enki Strap</sub>
+			<ammo>Pemphredo Tathlum</ammo>
+			<head>Wicce Petasos +3</head>
+			<body>Wicce Coat +3</body>
+			<hands>Wicce Gloves +3</hands>
+			<legs>Wicce Chausses +3</legs>
+			<feet>Agwu's Pigaches</feet>
+			<neck>Erra Pendant</neck>
+			<waist>Austerity Belt +1</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Regal Earring</ear2>
+			<ring1>Archon Ring</ring1>
+			<ring2>Freke Ring</ring2>
+			<back augment="S81383595743748541542533">Taranus's Cape</back>
+		</set>
+		<set name="blmspeed">
+			<ring1>Shneddick Ring +1</ring1>
+		</set>
+		<set name="fc2">
+		    <main>Grioavolr</main>
+			<ammo>Sapience Orb</ammo>
+			<head augment="S1774254385985224709">Merlinic Hood</head>
+			<body>Zendik Robe</body>
+			<hands>Helios Gloves</hands>
+			<legs>Agwu's Slops</legs>
+			<feet>Regal Pumps +1</feet>
+			<neck>Voltsurge Torque</neck>
+			<waist>Witful Belt</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Loquac. Earring</ear2>
+			<ring1>Rahab Ring</ring1>
+			<ring2>Kishar Ring</ring2>
+			<back augment="S018572">Taranus's Cape</back>
+		</set>
+		<set name="fn">
+		    <main augment="O257954938880262">Laevateinn</main>
+			<sub>Enki Strap</sub>
+			<ammo>Sroda Tathlum</ammo>
+			<head>Wicce Petasos +3</head>
+			<body>Wicce Coat +3</body>
+			<hands>Wicce Gloves +3</hands>
+			<legs>Wicce Chausses +3</legs>
+			<feet>Wicce Sabots +3</feet>
+			<neck>Src. Stole +2</neck>
+			<waist>Acuity Belt +1</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Regal Earring</ear2>
+			<ring1>Metamor. Ring +1</ring1>
+			<ring2>Freke Ring</ring2>
+			<back augment="S81383595743748541542533">Taranus's Cape</back>
+		</set>
+		<set name="dt">
+			<ammo>Staunch Tathlum +1</ammo>
+			<head>Wicce Petasos +3</head>
+			<body>Wicce Coat +3</body>
+			<hands>Wicce Gloves +3</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Wicce Sabots +3</feet>
+			<neck>Loricate Torque +1</neck>
+			<waist>Fucho-no-Obi</waist>
+			<ear1>Regal Earring</ear1>
+			<ear2>Barkaro. Earring</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Stikini Ring +1</ring2>
+			<back augment="S255541914018565">Taranus's Cape</back>
+		</set>
+		<set name="macc">
+		    <main augment="O257954938880262">Laevateinn</main>
+		    <sub>Khonsu</sub>
+			<ammo>Ghastly Tathlum +1</ammo>
+			<head>Wicce Petasos +3</head>
+			<body>Wicce Coat +3</body>
+			<hands>Wicce Gloves +3</hands>
+			<legs>Wicce Chausses +3</legs>
+			<feet>Wicce Sabots +3</feet>
+			<neck>Src. Stole +2</neck>
+			<waist>Acuity Belt +1</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Regal Earring</ear2>
+			<ring1>Metamor. Ring +1</ring1>
+			<ring2>Freke Ring</ring2>
+		    <back>Aurist's Cape +1</back>
+		 </set> 
+		<set name="idle">
+		    <main augment="O257954938880262">Laevateinn</main>
+			<sub>Enki Strap</sub>
+			<ammo>Staunch Tathlum +1</ammo>
+			<head>Wicce Petasos +3</head>
+			<body>Wicce Coat +3</body>
+			<hands>Wicce Gloves +3</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Wicce Sabots +3</feet>
+			<neck>Loricate Torque +1</neck>
+			<waist>Fucho-no-Obi</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Etiolation Earring</ear2>
+			<ring1>Shneddick Ring +1</ring1>
+			<ring2>Stikini Ring +1</ring2>
+			<back>Moonlight Cape</back>
+		</set>
+		<set name="ref">
+			<head augment="D21939027643331">Amalric Coif +1</head>
+		</set>
+		<set name="vid">
+			<main augment="O257954938880262">Laevateinn</main>
+			<sub>Enki Strap</sub>
+			<ammo>Sroda Tathlum</ammo>
+			<head>Wicce Petasos +3</head>
+			<body>Wicce Coat +3</body>
+			<hands>Wicce Gloves +3</hands>
+			<legs>Wicce Chausses +3</legs>
+			<feet>Wicce Sabots +3</feet>
+			<neck augment="O3728794451968202">Src. Stole +2</neck>
+			<waist augment="O2456978194432295">Acuity Belt +1</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Regal Earring</ear2>
+			<ring1 augment="O2456978194432306">Metamor. Ring +1</ring1>
+			<ring2>Freke Ring</ring2>
+			<back augment="S81383595743748541542533">Taranus's Cape</back>
+		</set>
+		<set name="fn2">
+		    <main augment="O257954938880262">Laevateinn</main>
+			<sub>Enki Strap</sub>
+			<ammo>Sroda Tathlum</ammo>
+			<head>Wicce Petasos +3</head>
+			<body>Spaekona's Coat +3</body>
+			<hands>Wicce Gloves +3</hands>
+			<legs>Wicce Chausses +3</legs>
+			<feet>Wicce Sabots +3</feet>
+			<neck>Src. Stole +2</neck>
+			<waist>Acuity Belt +1</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Regal Earring</ear2>
+			<ring1>Metamor. Ring +1</ring1>
+			<ring2>Freke Ring</ring2>
+			<back augment="S81383595743748541542533">Taranus's Cape</back>
+		</set>
+		<set name="feet">
+		      <feet>Wicce Sabots +3</feet>
+		</set>	  
+		<set name="back">
+			<back augment="S81383595743748541542533">Taranus's Cape</back>
+		</set>
+		<set name="bunz">
+			<main augment="O1529771196416404">Bunzi's Rod</main>
+			<sub>Ammurapi Shield</sub>
+			<ammo augment="O2456978194432343">Ghastly Tathlum +1</ammo>
+			<head>Ea Hat +1</head>
+			<body>Wicce Coat +3</body>
+			<hands augment="O1529771196416430">Agwu's Gages</hands>
+			<legs>Wicce Chausses +3</legs>
+			<feet augment="O1529771196416432">Agwu's Pigaches</feet>
+			<neck augment="O3728794451968202">Src. Stole +2</neck>
+			<waist>Hachirin-no-Obi</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Regal Earring</ear2>
+			<ring1 augment="O2456978194432306">Metamor. Ring +1</ring1>
+			<ring2>Freke Ring</ring2>
+			<back augment="S81383595743748541542533">Taranus's Cape</back>
+		</set>
+		<set name="black">
+			<main augment="O257954938880262">Laevateinn</main>
+			<sub>Enki Strap</sub>
+			<ammo>Staunch Tathlum +1</ammo>
+			<head>Wicce Petasos +3</head>
+			<body>Wicce Coat +3</body>
+			<hands>Wicce Gloves +3</hands>
+			<legs augment="O1529771261952446">Nyame Flanchard</legs>
+			<feet>Wicce Sabots +3</feet>
+			<neck augment="O2456978194432372">Loricate Torque +1</neck>
+			<waist>Fucho-no-Obi</waist>
+			<ear1 augment="O2456978194432367">Odnowa Earring +1</ear1>
+			<ear2>Etiolation Earring</ear2>
+			<ring1>Shneddick Ring +1</ring1>
+			<ring2>Stikini Ring +1</ring2>
+			<back>Moonlight Cape</back>
+		</set>
+		<set name="head">
+			<main augment="O257954938880262">Laevateinn</main>
+			<sub>Enki Strap</sub>
+			<ammo>Sapience Orb</ammo>
+			<head augment="S1774254385985224709">Merlinic Hood</head>
+			<body>Zendik Robe</body>
+			<hands augment="S27827504982149">Helios Gloves</hands>
+			<legs>Agwu's Slops</legs>
+			<feet augment="D7357599060760">Amalric Nails +1</feet>
+			<neck>Voltsurge Torque</neck>
+			<waist>Witful Belt</waist>
+			<ear1>Malignance Earring</ear1>
+			<ear2>Loquac. Earring</ear2>
+			<ring1>Rahab Ring</ring1>
+			<ring2>Kishar Ring</ring2>
+			<back augment="S018572">Taranus's Cape</back>
+		</set>
+		<include>
+		</include>
+	</sets>
+	<variables>
+	</variables>
+	<inputcommands>
+	</inputcommands>
+	<idlegear>
+	      <if p_status = "idle"> 
+            <equip set= "idle"/>
+	   </if>
+	      <if p_status="engaged">
+         <if advanced="$set=dt">
+             <equip set="dt"/>
+                </if>
+		</if>		
+	</idlegear>
+	<preranged>
+	</preranged>
+	<midranged>
+	</midranged>
+	<premagic>
+	      <equip set="fc2"/>
+	</premagic>
+	<midmagic>
+	<if ad_name="Refresh*">
+	       <equip set="ref"/>
+      </if>		   
+	<if ad_name="Drain*|Aspir*">
+                <equip set="dna"/>
+         </if>
+         <if ad_skill="Enfeeblingmagic">
+                <equip set="macc"/>
+		 </if>		  
+         <elseif advanced="$midcast=mb">
+            <equip set="mb"/>
+        </elseif>
+        <elseif advanced="$midcast=mb2">
+            <equip set="mb2"/>
+        </elseif>
+		<elseif advanced="$midcast=mb3">
+            <equip set="mb3"/>
+		</elseif>	
+		<elseif ad_skill="Elementalmagic">
+				  <equip set="fn" />	
+		</elseif>		  
+	</midmagic>
+	<jobability>
+	</jobability>
+	 <if ad_name="Manawall">
+	      <equip set="feet"/>
+		</if>  
+	<weaponskill>
+	  <if ad_name="Vidohunir">
+	     <equip set="fn"/>
+		</if> 
+	</weaponskill>
+</ashitacast>
+<waist>Hachirin-no-Obi</waist>
+<waist>Refoccilation Stone</waist>

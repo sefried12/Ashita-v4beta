@@ -1,0 +1,353 @@
+<ashitacast>
+	<settings>
+		<buffupdate>false</buffupdate>
+		<statusupdate>false</statusupdate>
+		<hpupdate>false</hpupdate>
+		<autoupdate>true</autoupdate>
+	</settings>
+	<sets>
+		<set name="meva">
+			<ammo>Staunch Tathlum +1</ammo>
+			<head>Nyame Helm</head>
+			<body>Adamantite Armor</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Eri. Leg Guards +3</legs>
+			<feet>Erilaz Greaves +3</feet>
+			<neck>Warder's Charm +1</neck>
+			<waist>Engraved Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Erilaz Earring +2</ear2>
+			<ring1>Moonlight Ring</ring1>
+			<ring2>Shadow Ring</ring2>
+			<back augment="S79326306474063541542439">Ogma's Cape</back>
+		</set>
+		<set name="fc">
+			<ammo>Sapience Orb</ammo>
+			<head>Rune. Bandeau +3</head>
+			<body>Erilaz Surcoat +3</body>
+			<hands>Leyline Gloves</hands>
+			<legs>Aya. Cosciales +2</legs>
+			<feet>Carmine Greaves +1</feet>
+			<neck>Voltsurge Torque</neck>
+			<waist>Engraved Belt</waist>
+			<ear1>Etiolation Earring</ear1>
+			<ear2>Loquac. Earring</ear2>
+			<ring1>Gelatinous Ring +1</ring1>
+			<ring2>Kishar Ring</ring2>
+			<back augment="S3899118572">Ogma's Cape</back>
+		</set>
+		<set name="phalanx">
+			<head>Fu. Bandeau +3</head>
+			<body augment="S19172734009344">Taeon Tabard</body>
+			<hands augment="S19172734009344">Taeon Gloves</hands>
+			<legs augment="S19172734009344">Taeon Tights</legs>
+			<feet augment="S19172734009344">Taeon Boots</feet>
+			<neck>Incanter's Torque</neck>
+			<waist>Olympus Sash</waist>
+			<ear1>Mimir Earring</ear1>
+			<ear2>Odnowa Earring +1</ear2>
+			<ring1>Gelatinous Ring +1</ring1>
+			<ring2>Stikini Ring +1</ring2>
+			<back>Moonlight Cape</back>
+		</set>
+		<set name="tanktp">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Nyame Helm</head>
+			<body>Nyame Mail</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Samnuha Tights</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Futhark Torque +2</neck>
+			<waist>Ioskeha Belt +1</waist>
+			<ear1>Telos Earring</ear1>
+			<ear2>Sherida Earring</ear2>
+			<ring1>Moonlight Ring</ring1>
+			<ring2>Moonlight Ring</ring2>
+			<back augment="S2554632705541542543">Ogma's Cape</back>
+		</set>
+		<set name="speed">
+			<ring1>Shneddick Ring +1</ring1>
+		</set>
+		<set name="sird">
+			<ammo>Staunch Tathlum +1</ammo>
+			<head>Erilaz Galea +3</head>
+			<body>Emet Harness +1</body>
+			<hands>Regal Gauntlets</hands>
+			<legs>Carmine Cuisses +1</legs>
+			<feet>Erilaz Greaves +3</feet>
+			<neck>Moonlight Necklace</neck>
+			<waist>Audumbla Sash</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Cryptic Earring</ear2>
+			<ring1>Evanescence Ring</ring1>
+			<ring2>Defending Ring</ring2>
+			<back augment="S2555484239612714535">Ogma's Cape</back>
+		</set>
+		<set name="regen">
+			<ammo>Staunch Tathlum +1</ammo>
+			<head>Rune. Bandeau +3</head>
+			<body augment="S19185618911232">Taeon Tabard</body>
+			<hands>Regal Gauntlets</hands>
+			<legs>Futhark Trousers +3</legs>
+			<feet augment="S19185618911232">Taeon Boots</feet>
+			<neck>Sacro Gorget</neck>
+			<waist>Sroda Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Erilaz Earring +2</ear2>
+			<ring1>Moonlight Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79326306474063541542439">Ogma's Cape</back>
+		</set>
+		<set name="bar">
+			<ammo>Staunch Tathlum +1</ammo>
+			<head>Erilaz Galea +3</head>
+			<body>Taeon Tabard</body>
+			<hands>Runeist Mitons +3</hands>
+			<legs>Futhark Trousers +3</legs>
+			<feet>Carmine Greaves +1</feet>
+			<neck>Incanter's Torque</neck>
+			<waist>Olympus Sash</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Mimir Earring</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Stikini Ring +1</ring2>
+			<back>Moonlight Cape</back>
+		</set>
+		<set name="Dim">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Nyame Helm</head>
+			<body>Nyame Mail</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Fotia Belt</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Sherida Earring</ear2>
+			<ring1>Regal Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S8137071005542518759">Ogma's Cape</back>
+		</set>
+		<set name="hate">
+		    <ammo>Aqreqaq Bomblet</ammo>
+		    <head>Halitus Helm</head>
+			<body>Emet Harness +1</body>
+			<hands>Kurys Gloves</hands>
+			<legs>Eri. Leg Guards +3</legs>
+			<feet>Erilaz Greaves +3</feet>
+			<neck>Moonlight Necklace</neck>
+			<waist>Kasiri Belt</waist>
+			<ear1>Cryptic Earring</ear1>
+			<ear2>Trux Earring</ear2>
+			<ring1>Eihwaz Ring</ring1>
+			<ring2>Supershear Ring</ring2>
+			<back augment="S79326306474063541542439">Ogma's Cape</back>
+		</set>
+		<set name="body">
+			<body>Futhark Coat +3</body>
+		</set>
+		<set name="val">
+			<body>Runeist's Coat +3</body>
+			<back augment="S79326306474063541542439">Ogma's Cape</back>
+		</set>
+		<set name="sword">
+			<hands>Futhark Mitons +3</hands>
+		</set>
+		<set name="pflug">
+			<feet>Runeist Bottes +2</feet>
+		</set>
+		<set name="gambit">
+			<hands>Runeist Mitons +3</hands>
+		</set>
+		<set name="battuta">
+			<head>Fu. Bandeau +3</head>
+		</set>
+		<set name="Rayke">
+			<feet>Futhark Boots +3</feet>	
+		</set>
+		<set name="lunge">
+			<ammo>Seeth. Bomblet +1</ammo>
+			<head>Agwu's Cap</head>
+			<body>Agwu's Robe</body>
+			<hands>Agwu's Gages</hands>
+			<legs>Agwu's Slops</legs>
+			<feet>Agwu's Pigaches</feet>
+			<neck>Sibyl Scarf</neck>
+			<waist>Orpheus's Sash</waist>
+			<ear1>Friomisi Earring</ear1>
+			<ear2>Novio Earring</ear2>
+			<ring1>Mujin Band</ring1>
+			<ring2>Locus Ring</ring2>
+		</set>
+		<set name="pdt">
+			<ammo>Staunch Tathlum +1</ammo>
+			<head>Erilaz Galea +3</head>
+			<body>Adamantite Armor</body>
+			<hands>Erilaz Gauntlets +3</hands>
+			<legs>Eri. Leg Guards +3</legs>
+			<feet>Erilaz Greaves +3</feet>
+			<neck>Warder's Charm +1</neck>
+			<waist>Engraved Belt</waist>
+			<ear1 augment="O2456978194432367">Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1 augment="O2456978194432316">Gelatinous Ring +1</ring1>
+			<ring2>Moonlight Ring</ring2>
+			<back augment="S79326306474063541542439">Ogma's Cape</back>
+		</set>
+		<set name="ab">
+			<ammo>Yamarang</ammo>
+			<head>Erilaz Galea +3</head>
+			<body>Erilaz Surcoat +2</body>
+			<hands>Erilaz Gauntlets +2</hands>
+			<legs>Eri. Leg Guards +3</legs>
+			<feet>Erilaz Greaves +3</feet>
+			<neck>Sanctity Necklace</neck>
+			<waist>Ioskeha Belt +1</waist>
+			<ear1>Crep. Earring</ear1>
+			<ear2>Digni. Earring</ear2>
+			<ring1>Crepuscular Ring</ring1>
+			<ring2>Karieyh Ring</ring2>
+			<back augment="S8137071005542518759">Ogma's Cape</back>
+		</set>
+		<set name="sird2">
+			<ammo>Staunch Tathlum +1</ammo>
+			<head>Erilaz Galea +3</head>
+			<body>Adamantite Armor</body>
+			<hands>Rawhide Gloves</hands>
+			<legs>Eri. Leg Guards +3</legs>
+			<feet>Erilaz Greaves +3</feet>
+			<neck>Moonlight Necklace</neck>
+			<waist>Audumbla Sash</waist>
+			<ear1 augment="O2456978194432367">Odnowa Earring +1</ear1>
+			<ear2 augment="S969088250036606215">Erilaz Earring +2</ear2>
+			<ring1 augment="O2456978194432316">Gelatinous Ring +1</ring1>
+			<ring2>Evanescence Ring</ring2>
+			<back augment="S2555484239612714535">Ogma's Cape</back>
+		</set>
+		<set name="long">
+			<head>Erilaz Galea +3</head>
+			<hands>Regal Gauntlets</hands>
+			<legs>Futhark Trousers +3</legs>
+			<ear1>Brachyura Earring</ear1>
+		</set>
+		<set name="idle">
+			<ammo>Staunch Tathlum +1</ammo>
+			<head>Erilaz Galea +3</head>
+			<body>Adamantite Armor</body>
+			<hands>Erilaz Gauntlets +3</hands>
+			<legs>Eri. Leg Guards +3</legs>
+			<feet>Erilaz Greaves +3</feet>
+			<neck>Warder's Charm +1</neck>
+			<waist>Engraved Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Shneddick Ring +1</ring1>
+			<ring2>Moonlight Ring</ring2>
+			<back augment="S79326306474063541542439">Ogma's Cape</back>
+		</set>
+		<include>
+		</include>
+	</sets>
+	<variables>
+	</variables>
+	<inputcommands>
+	 <cmd input="/phalanx">
+				<equip set="phalanx" />
+						<gearlock length="3" />
+						<addtochat color ="50">Phalanx Set!</addtochat>
+		</cmd>
+		<cmd input="/regen">
+				<equip set="regen" />
+						<gearlock length="3" />
+						<addtochat color ="50">regen Set!</addtochat>
+		</cmd>
+	</inputcommands>
+	<idlegear>
+	      <if p_status = "idle"> 
+            <equip set= "idle"/>
+        </if> 
+	  <if p_status="engaged">
+         <if advanced="$set=tp">
+             <equip set="tanktp"/>
+               </if>
+        <if advanced="$set=meva">
+             <equip set="meva"/>
+               </if>
+         <if advanced="$set=pdt">
+             <equip set="pdt"/>
+               </if>	   
+      </if>
+	</idlegear>
+	<preranged>
+	</preranged>
+	<midranged>
+	</midranged>
+	<premagic>
+	    <equip set ="fc"/>
+	</premagic>		
+	<midmagic>
+		<if ad_name="Regen*">
+				<equip set="regen"/>
+		</if>
+		<elseif ad_name="Flash|Foil">
+		      <equip set="hate"/>
+		</elseif>
+        <elseif ad_name="Protect*|Shell*|Crusade">
+		      <equip set="long"/>
+		</elseif>		
+		<elseif ad_name="Phalanx*">
+				<equip set="phalanx"/>
+		</elseif>
+		<elseif ad_name="Bar*">
+				<equip set="bar"/>
+		</elseif>
+		<else>
+			<if ad_skill="enhancingmagic">
+				<equip set="bar"/>
+			</if>	
+			<else>
+				<equip set="sird2"/>		
+			</else>
+		</else>	
+	</midmagic>
+	<jobability>
+	      <if ad_name="Provoke">
+		      <equip set="hate"/>
+			     </if>
+	      <if ad_name="Swipe|Lunge">
+		     <equip set="lunge"/>
+			     </if>
+		  <if ad_name="Rayke">
+		       <equip set="Rayke"/>
+			     </if>
+	       <if ad_name="Pflug">
+		     <equip set="pflug"/>
+			    </if>
+           <if ad_name="Elemental Sforzo">
+		    <equip set="body"/>
+			    </if>
+		<if ad_name="Vallation|Valiance">
+            <equip set="val"/>
+               </if>
+		<if ad_name="Swordplay">
+               <equip set="sword"/>
+               </if>
+		<if ad_name="Gambit">
+             <equip set="gambit"/>
+              </if>
+        <if ad_name="Battuta">
+             <equip set="battuta"/>
+              </if>
+		<if ad_name="Liement">
+             <equip set="body"/> 
+		</if>	
+	</jobability>
+	<weaponskill>
+	    <if ad_name="Armor Break">
+		   <equip set="ab"/>
+		    </if>
+		<else>	
+	    <equip set="Dim"/>
+		</else>
+	</weaponskill>
+</ashitacast>

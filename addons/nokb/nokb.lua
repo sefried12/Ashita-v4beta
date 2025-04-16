@@ -46,12 +46,12 @@ ashita.events.register('packet_in', 'packet_in_cb', function (e)
                 ashita.bits.pack_be(e.data_modified_raw, 0, b + 60, 3);
 
                 -- Skip over additional effect information if present..
-                if (bit.band(ashita.bits.unpack_be(e.data_modified_raw, b + 121, 1), 0x01)) then
+                if (bit.band(ashita.bits.unpack_be(e.data_modified_raw, b + 121, 1), 0x01) == 0x01) then
                     b = b + 37;
                 end
 
                 -- Skip over spike effect information if present..
-                if (bit.band(ashita.bits.unpack_be(e.data_modified_raw, b + 122, 1), 0x01)) then
+                if (bit.band(ashita.bits.unpack_be(e.data_modified_raw, b + 122, 1), 0x01) == 0x01) then
                     b = b + 34;
                 end
 

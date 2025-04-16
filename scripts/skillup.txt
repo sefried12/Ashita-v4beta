@@ -1,0 +1,7 @@
+/ma Carbuncle <me>
+/wait 6
+/ja release <me>
+/wait 6
+/ma Titan <me>
+/wait 6
+/ja release <me>

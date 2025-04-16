@@ -1,0 +1,11 @@
+/item "Aid for All" <me>
+/wait 4
+/item "Aid for All" <me>
+/wait 4
+/item "Aid for All" <me>
+/wait 4
+/item "Aid for All" <me>
+/wait 4
+/item "Aid for All" <me>
+/wait 4
+/item "Aid for All" <me>

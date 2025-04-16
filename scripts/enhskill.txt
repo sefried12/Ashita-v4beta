@@ -1,0 +1,8 @@
+/ma Barfire <me>
+/wait 4
+/ma Barblizzard <me>
+/wait 4
+/ma Baraero <me>
+/wait 4
+/ma Barthunder <me>
+/wait 4

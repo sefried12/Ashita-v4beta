@@ -1,0 +1,696 @@
+<ashitacast>
+	<settings>
+		<buffupdate>false</buffupdate>
+		<statusupdate>false</statusupdate>
+		<hpupdate>false</hpupdate>
+		<autoupdate>true</autoupdate>
+	</settings>
+	<sets>
+	<set name="ws">
+			<ammo>Knobkierrie</ammo>
+			<head>Nyame Helm</head>
+			<body>Nyame Mail</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Thrud Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Regal Ring</ring2>
+			<back augment="S255463270418759">Cichol's Mantle</back>
+		</set>
+		<set name="hybrid">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Sakpata's Helm</head>
+			<body>Sakpata's Plate</body>
+			<hands>Sakpata's Gauntlets</hands>
+			<legs>Sakpata's Cuisses</legs>
+			<feet>Sakpata's Leggings</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Ioskeha Belt +1</waist>
+			<ear1>Schere Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back>Null Shawl</back>
+		</set>
+		<set name="speed">
+			<ring1>Shneddick Ring +1</ring1>
+		</set>
+		<set name="face">
+			<head>Agoge Mask +3</head>
+		</set>
+		<set name="zerk">
+			<body>Pumm. Lorica +3</body>
+			<feet>Agoge Calligae +3</feet>
+			<back augment="S2554632705541542543">Cichol's Mantle</back>
+		</set>
+		<set name="tomahawk">
+			<ammo>Thr. Tomahawk</ammo>
+			<head>Agoge Mask +3</head>
+		</set>
+		<set name="hitp">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Flam. Zucchetto +2</head>
+			<body>Tatena. Harama. +1</body>
+			<hands>Tatena. Gote +1</hands>
+			<legs>Tatena. Haidate +1</legs>
+			<feet>Tatena. Sune. +1</feet>
+			<neck>Vim Torque +1</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Schere Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back>Null Shawl</back>
+		</set>
+		<set name="han">
+			<hands augment="M5376">Agoge Mufflers +1</hands>
+		</set>
+		<set name="pdt">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Sakpata's Helm</head>
+			<body>Adamantite Armor</body>
+			<hands>Sakpata's Gauntlets</hands>
+			<legs>Sakpata's Cuisses</legs>
+			<feet>Sakpata's Leggings</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Ioskeha Belt +1</waist>
+			<ear1>Schere Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Moonlight Ring</ring2>
+			<back>Null Shawl</back>
+		</set>
+		<set name="subtle">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Sakpata's Helm</head>
+			<body>Dagon Breast.</body>
+			<hands>Sakpata's Gauntlets</hands>
+			<legs>Sakpata's Cuisses</legs>
+			<feet>Sakpata's Leggings</feet>
+			<neck>Bathy Choker +1</neck>
+			<waist>Ioskeha Belt +1</waist>
+			<ear1>Schere Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Chirich Ring +1</ring2>
+		    <back>Null Shawl</back>
+		</set>
+		<set name="hate">
+			<head augment="O2456978194432376">Loess Barbuta +1</head>
+			<body augment="D15938765744130">Souv. Cuirass +1</body>
+			<hands augment="D15938765744130">Souv. Handsch. +1</hands>
+			<legs augment="D15938765744130">Souv. Diechlings +1</legs>
+			<feet>Souveran Schuhs +1</feet>
+			<neck>Homeric Gorget</neck>
+			<ear1>Friomisi Earring</ear1>
+			<ear2>Cryptic Earring</ear2>
+			<ring1>Apeile Ring</ring1>
+			<ring2>Apeile Ring +1</ring2>
+		</set>	
+		<set name="tp">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Sakpata's Helm</head>
+			<body>Sakpata's Plate</body>
+			<hands>Sakpata's Gauntlets</hands>
+			<legs>Sakpata's Cuisses</legs>
+			<feet>Sakpata's Leggings</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Ioskeha Belt +1</waist>
+			<ear1>Schere Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back>Null Shawl</back>
+		</set>
+		<set name="rest">
+			<hands>Boii Mufflers +3</hands>
+		</set>
+		<set name="hisav">
+			<ammo>Knobkierrie</ammo>
+			<head>Agoge Mask +3</head>
+			<body>Sakpata's Plate</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Thrud Earring</ear2>
+			<ring1>Sroda Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Cichol's Mantle</back>
+		</set>
+		<set name="upheaval">
+			<ammo>Knobkierrie</ammo>
+			<head>Agoge Mask +3</head>
+			<body>Nyame Mail</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Thrud Earring</ear1>
+			<ear2>Moonshade Earring</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Cichol's Mantle</back>
+		</set>
+		<set name="hiheave">
+			<ammo>Knobkierrie</ammo>
+			<head>Sakpata's Helm</head>
+			<body>Sakpata's Plate</body>
+			<hands>Sakpata's Gauntlets</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Thrud Earring</ear1>
+			<ear2>Moonshade Earring</ear2>
+			<ring1>Sroda Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Cichol's Mantle</back>
+		</set>
+		<set name="judgment">
+			<ammo>Knobkierrie</ammo>
+			<head>Agoge Mask +3</head>
+			<body>Nyame Mail</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Thrud Earring</ear2>
+			<ring1>Sroda Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Cichol's Mantle</back>
+		</set>
+		<set name="hijudgment">
+			<ammo>Knobkierrie</ammo>
+			<head>Agoge Mask +3</head>
+			<body>Sakpata's Plate</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Thrud Earring</ear2>
+			<ring1>Sroda Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Cichol's Mantle</back>
+		</set>
+		<set name="SB">
+			<ammo>Knobkierrie</ammo>
+			<head>Agoge Mask +3</head>
+			<body>Nyame Mail</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Thrud Earring</ear2>
+			<ring1>Regal Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Cichol's Mantle</back>
+		</set>
+		<set name="stp">
+			<ammo>Seeth. Bomblet +1</ammo>
+			<head>Hjarrandi Helm</head>
+			<body>Hjarrandi Breast.</body>
+			<hands>Sakpata's Gauntlets</hands>
+			<legs>Tatena. Haidate +1</legs>
+			<feet>Tatena. Sune. +1</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Ioskeha Belt +1</waist>
+			<ear1>Schere Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Petrov Ring</ring1>
+			<ring2>Niqmaddu Ring</ring2>
+			<back>Null Shawl</back>
+		</set>
+		<set name="Ukko">
+			<ammo>Yetshila +1</ammo>
+			<head>Boii Mask +3</head>
+			<body>Hjarrandi Breast.</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Boii Calligae +3</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Schere Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Begrudging Ring</ring2>
+			<back augment="S81366415088128541542441">Cichol's Mantle</back>
+		</set>
+		<set name="kj">
+			<ammo>Knobkierrie</ammo>
+			<head>Agoge Mask +3</head>
+			<body>Nyame Mail</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Thrud Earring</ear1>
+			<ear2>Moonshade Earring</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Cichol's Mantle</back>
+		</set>
+		<set name="kjhi">
+			<ammo>Knobkierrie</ammo>
+			<head>Agoge Mask +3</head>
+			<body>Sakpata's Plate</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Thrud Earring</ear1>
+			<ear2>Moonshade Earring</ear2>
+			<ring1>Sroda Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Cichol's Mantle</back>
+		</set>
+		<set name="minstral">
+			<ammo>Knobkierrie</ammo>
+			<head>Agoge Mask +3</head>
+			<body>Nyame Mail</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Thrud Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Sroda Ring</ring2>
+			<back augment="S81366415088128541542727">Cichol's Mantle</back>
+		</set>
+		<set name="minhi">
+			<ammo>Knobkierrie</ammo>
+			<head>Agoge Mask +3</head>
+			<body>Sakpata's Plate</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Thrud Earring</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Sroda Ring</ring2>
+			<back augment="S81366415088128541542727">Cichol's Mantle</back>
+		</set>
+		<set name="idhi">
+			<ammo>Yetshila +1</ammo>
+			<head>Blistering Sallet +1</head>
+			<body>Sakpata's Plate</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Boii Calligae +3</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Sroda Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542441">Cichol's Mantle</back>
+		</set>
+		<set name="ret">
+			<feet>Boii Calligae +3</feet>
+		</set>
+		<set name="blood">
+			<body>Boii Lorica +3</body>
+			<ring1>Shneddick Ring +1</ring1>
+		</set>
+		<set name="ukkohi">
+			<ammo>Yetshila +1</ammo>
+			<head>Blistering Sallet +1</head>
+			<body>Sakpata's Plate</body>
+			<hands>Sakpata's Gauntlets</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Boii Calligae +3</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Schere Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Sroda Ring</ring2>
+			<back augment="S81366415088128541542441">Cichol's Mantle</back>
+		</set>
+		<set name="RR">
+			<ammo>Yetshila +1</ammo>
+			<head>Blistering Sallet +1</head>
+			<body>Hjarrandi Breast.</body>
+			<hands>Flam. Manopolas +2</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Boii Calligae +3</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Fotia Belt</waist>
+			<ear1>Schere Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Begrudging Ring</ring2>
+			<back augment="S81366415088128541542441">Cichol's Mantle</back>
+		</set>
+		<set name="RRhi">
+			<ammo>Yetshila +1</ammo>
+			<head>Blistering Sallet +1</head>
+			<body>Sakpata's Plate</body>
+			<hands>Sakpata's Gauntlets</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Boii Calligae +3</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Fotia Belt</waist>
+			<ear1>Thrud Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Sroda Ring</ring2>
+			<back augment="S81366415088128541542441">Cichol's Mantle</back>
+		</set>
+		<set name="dec">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Boii Mask +3</head>
+			<body>Nyame Mail</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Fotia Belt</waist>
+			<ear1>Thrud Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back>Null Shawl</back>
+		</set>
+		<set name="dechi">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Sakpata's Helm</head>
+			<body>Sakpata's Plate</body>
+			<hands>Sakpata's Gauntlets</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Fotia Belt</waist>
+			<ear1>Thrud Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Sroda Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back>Null Shawl</back>
+		</set>
+		<set name="ID">
+			<ammo>Yetshila +1</ammo>
+			<head>Boii Mask +3</head>
+			<body>Hjarrandi Breast.</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Boii Calligae +3</feet>
+			<neck>War. Beads +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Begrudging Ring</ring2>
+			<back augment="S81366415088128541542441">Cichol's Mantle</back>
+		</set>
+		<set name="tp2">
+			<ammo>Coiste Bodhar</ammo>
+			<head>Hjarrandi Helm</head>
+			<body>Boii Lorica +3</body>
+			<hands>Sakpata's Gauntlets</hands>
+			<legs>Pumm. Cuisses +3</legs>
+			<feet>Pumm. Calligae +3</feet>
+			<neck>Vim Torque +1</neck>
+			<waist>Ioskeha Belt +1</waist>
+			<ear1>Schere Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Petrov Ring</ring1>
+			<ring2>Niqmaddu Ring</ring2>
+			<back>Null Shawl</back>
+		</set>
+		<set name="tpback">
+			<back>Null Shawl</back>
+		</set>
+		<set name="criback">
+			<back augment="S81366415088128541542441">Cichol's Mantle</back>
+		</set>
+		<set name="wsback">
+			<back augment="S81366415088128541542727">Cichol's Mantle</back>
+		</set>
+		<set name="sd">
+			<ammo>Yetshila +1</ammo>
+			<head>Boii Mask +3</head>
+			<body>Hjarrandi Breast.</body>
+			<hands>Flam. Manopolas +2</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Boii Calligae +3</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Fotia Belt</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Niqmaddu Ring</ring1>
+			<ring2>Begrudging Ring</ring2>
+			<back augment="S81366415088128541542441">Cichol's Mantle</back>
+		</set>
+		<set name="sdhi">
+			<ammo>Yetshila +1</ammo>
+			<head>Blistering Sallet +1</head>
+			<body>Sakpata's Plate</body>
+			<hands>Sakpata's Gauntlets</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Boii Calligae +3</feet>
+			<neck>Fotia Gorget</neck>
+			<waist>Fotia Belt</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Boii Earring +2</ear2>
+			<ring1>Sroda Ring</ring1>
+			<ring2>Niqmaddu Ring</ring2>
+			<back augment="S81366415088128541542441">Cichol's Mantle</back>
+		</set>
+		<set name="feet">
+			<main>Naegling</main>
+			<sub>Blurred Shield +1</sub>
+			<ammo augment="O1529771196416459">Coiste Bodhar</ammo>
+			<head>Hjarrandi Helm</head>
+			<body>Boii Lorica +3</body>
+			<hands augment="O1529771196416420">Sakpata's Gauntlets</hands>
+			<legs>Pumm. Cuisses +3</legs>
+			<feet>Pumm. Calligae +3</feet>
+			<neck augment="O2456978194432383">Vim Torque +1</neck>
+			<waist>Ioskeha Belt +1</waist>
+			<ear1 augment="O2165816950784464">Schere Earring</ear1>
+			<ear2 augment="S1408899612033401109862441">Boii Earring +2</ear2>
+			<ring1>Petrov Ring</ring1>
+			<ring2>Niqmaddu Ring</ring2>
+			<back>Null Shawl</back>
+		</set>
+		<set name="Shellc">
+			<ammo>Amar Cluster</ammo>
+			<head>Boii Mask +3</head>
+			<body>Boii Lorica +3</body>
+			<hands>Boii Mufflers +3</hands>
+			<legs>Boii Cuisses +3</legs>
+			<feet>Boii Calligae +3</feet>
+			<neck>Sanctity Necklace</neck>
+			<waist>Eschan Stone</waist>
+			<ear1>Crep. Earring</ear1>
+			<ear2 augment="S1408899612033401109862441">Boii Earring +2</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Crepuscular Ring</ring2>
+			<back>Null Shawl</back>
+		</set>
+		<set name="subtank">
+			<ammo>Staunch Tathlum +1</ammo>
+			<head>Sakpata's Helm</head>
+			<body>Dagon Breast.</body>
+			<hands>Sakpata's Gauntlets</hands>
+			<legs>Sakpata's Cuisses</legs>
+			<feet>Sakpata's Leggings</feet>
+			<neck>Warder's Charm +1</neck>
+			<waist>Ioskeha Belt +1</waist>
+			<ear1 augment="O2456978194432367">Odnowa Earring +1</ear1>
+			<ear2 augment="S1408899612033401109862441">Boii Earring +2</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Niqmaddu Ring</ring2>
+			<back>Null Shawl</back>
+		</set>
+		<include>
+		</include>
+	</sets>
+	<variables>
+	</variables>
+	<inputcommands>
+	</inputcommands>
+	<idlegear>
+	    	   <if p_status = "idle" p_ismoving="true"> 
+            <equip set= "speed"/>
+        </if> 
+	  <if p_status="engaged">
+         <if advanced="$set=tp">
+             <equip set="tp"/>
+               </if>
+        <if advanced="$set=hitp">
+             <equip set="hitp"/>
+               </if>
+		<if advanced="$set=hybrid">
+             <equip set="hybrid"/>
+               </if>
+        <if advanced="$set=pdt">
+             <equip set="pdt"/>
+               </if>
+        <if advanced="$set=sb">
+             <equip set="subtle"/>
+               </if>
+		<if advanced="$set=subtank">
+             <equip set="subtank"/>
+               </if>
+        <if advanced="$set=stp">
+             <equip set="stp"/>
+               </if>
+         <if advanced="$set=tp2">
+             <equip set="tp2"/>
+               </if>			   
+		</if>	   
+	</idlegear>
+	<preranged>
+	</preranged>
+	<midranged>
+	</midranged>
+	<premagic>
+	</premagic>
+	<midmagic>
+	</midmagic>
+	<jobability>
+	      <if ad_name="Berserk">
+		       <equip set="zerk"/>
+     </if>
+		 <if ad_name="Provoke">
+		    <equip set="hate"/>
+	</if>
+      <if ad_name="Warcry">
+            <equip set="face"/>
+	</if>
+        <if ad_name="Tomahawk">
+            <equip set="tomahawk"/>
+    </if>
+        <if ad_name="Mighty Strikes">
+            <equip set="han"/>
+       </if>
+        <if ad_name="Restraint">
+             <equip set="rest"/>
+        </if>
+       <if ad_name="Retaliation">
+             <equip set="ret"/>
+        </if>
+       <if ad_name="Blood Rage">
+           <equip set="blood"/>
+        </if>		   
+	</jobability>
+	<weaponskill> 
+		<if ad_name="Upheaval">
+				<if advanced="$ws=hi">
+					<equip set="hiheave"/>
+			    </if>
+				<else>
+					<equip set="upheaval"/>
+				</else>	
+        </if>
+        <elseif ad_name="Savage Blade">
+				<if advanced="$ws=hi">
+					<equip set="hisav"/>
+			    </if>
+				<else>
+					<equip set="SB"/>
+				</else>	
+        </elseif>
+       <elseif ad_name="Judgment">
+				<if advanced="$ws=hi">
+					<equip set="hijudgment"/>
+			    </if>
+				<else>
+					<equip set="judgment"/>
+				</else>	
+        </elseif>
+	    <elseif ad_name="Ukko's Fury">
+				<if advanced="$ws=hi">
+					<equip set="ukko"/>
+			    </if>
+				<else>
+					<equip set="ukkohi"/>
+				</else>	
+        </elseif>
+        <elseif ad_name="King's Justice">
+				<if advanced="$ws=hi">
+					<equip set="kjhi"/>
+			    </if>
+				<else>
+					<equip set="kj"/>
+				</else>	
+        </elseif>
+         <elseif ad_name="Mistral Axe">
+				<if advanced="$ws=hi">
+					<equip set="minhi"/>
+			    </if>
+				<else>
+					<equip set="minstral"/>
+				</else>	
+        </elseif>
+        <elseif ad_name="Impulse Drive">
+				<if advanced="$ws=hi">
+					<equip set="idhi"/>
+			    </if>
+				<else>
+					<equip set="ID"/>
+				</else>	
+        </elseif>
+         <elseif ad_name="Raging Rush">
+				<if advanced="$ws=hi">
+					<equip set="RRhi"/>
+			    </if>
+				<else>
+					<equip set="RR"/>
+				</else>	
+        </elseif>
+         <elseif ad_name="Decimation">
+				<if advanced="$ws=hi">
+					<equip set="dechi"/>
+			    </if>
+				<else>
+					<equip set="dec"/>
+				</else>	
+        </elseif>
+        <elseif ad_name="Stardiver">
+				<if advanced="$ws=hi">
+					<equip set="sdhi"/>
+			    </if>
+				<else>
+					<equip set="sd"/>
+				</else>	
+        </elseif>
+		 <elseif ad_name="Black Halo">
+				<if advanced="$ws=hi">
+					<equip set="hijudgment"/>
+			    </if>
+				<else>
+					<equip set="judgment"/>
+				</else>
+		</elseif>		
+        <elseif ad_name="Shell Crusher">
+		       <equip set="Shellc"/>
+        </elseif>
+		<elseif ad_name="Shield Break|Armor Break|Full Break">
+		       <equip set="Shellc"/>
+		</elseif>	   
+        <else>
+               <equip set="ws"/>
+        </else>
+</weaponskill>
+</ashitacast>

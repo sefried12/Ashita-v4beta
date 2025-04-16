@@ -1,0 +1,568 @@
+<ashitacast>
+	<settings>
+		<buffupdate>false</buffupdate>
+		<statusupdate>false</statusupdate>
+		<hpupdate>false</hpupdate>
+		<autoupdate>true</autoupdate>
+	</settings>
+	<sets>
+		<set name="tp">
+		    <range augment="S19113016455191">Linos</range>
+			<head>Bunzi's Hat</head>
+			<body>Ashera Harness</body>
+			<hands>Bunzi's Gloves</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Bard's Charm +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Telos Earring</ear1>
+			<ear2>Dedition Earring</ear2>
+			<ring1>Moonlight Ring</ring1>
+			<ring2>Chirich Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="speed">
+			<ring1>Shneddick Ring +1</ring1>
+		</set>
+		<set name="fastcast">
+			<head>Nahtirah Hat</head>
+			<body>Inyanga Jubbah +2</body>
+			<hands>Leyline Gloves</hands>
+			<legs>Kaykaus Tights +1</legs>
+			<feet>Fili Cothurnes +3</feet>
+			<neck>Voltsurge Torque</neck>
+			<waist>Witful Belt</waist>
+			<ear1>Loquac. Earring</ear1>
+			<ear2>Enchntr. Earring +1</ear2>
+			<ring1>Lebeche Ring</ring1>
+			<ring2>Kishar Ring</ring2>
+			<back augment="S7931771647437418572">Intarabus's Cape</back>
+		</set>
+		<set name="midsong">
+			<main>Carnwenhan</main>
+			<sub>Kali</sub>
+			<range>Gjallarhorn</range>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Inyanga Shalwar +2</legs>
+			<feet>Brioso Slippers +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="ballad">
+			<main>Carnwenhan</main>
+			<sub>Kali</sub>
+			<range>Gjallarhorn</range>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Inyanga Shalwar +2</legs>
+			<feet>Brioso Slippers +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="Minne">
+			<main>Carnwenhan</main>
+			<sub>Kali</sub>
+			<range>Gjallarhorn</range>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Mou. Seraweels +1</legs>
+		    <feet>Brioso Slippers +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="madrigal">
+			<main>Carnwenhan</main>
+			<sub>Kali</sub>
+			<range>Gjallarhorn</range>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Inyanga Shalwar +2</legs>
+			<feet>Fili Cothurnes +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="prelude">
+			<main>Carnwenhan</main>
+			<sub>Kali</sub>
+			<range>Gjallarhorn</range>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Inyanga Shalwar +2</legs>
+			<feet>Brioso Slippers +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="HM">
+			<main>Carnwenhan</main>
+			<sub>Kali</sub>
+			<range>Marsyas</range>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Inyanga Shalwar +2</legs>
+			<feet>Brioso Slippers +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		 <set name="fastcasthm">
+		    <range>Marsyas</range>
+			<head>Nahtirah Hat</head>
+			<body>Inyanga Jubbah +2</body>
+			<hands>Leyline Gloves</hands>
+			<legs>Kaykaus Tights +1</legs>
+			<feet>Bihu Slippers +3</feet>
+			<neck>Voltsurge Torque</neck>
+			<waist>Witful Belt</waist>
+			<ear1>Loquac. Earring</ear1>
+			<ear2>Enchntr. Earring +1</ear2>
+			<ring1>Lebeche Ring</ring1>
+			<ring2>Kishar Ring</ring2>
+			<back augment="S7931771647437418572">Intarabus's Cape</back>
+		</set>
+		<set name="Scherzo">
+			<main>Carnwenhan</main>
+			<sub>Kali</sub>
+			<range>Gjallarhorn</range>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Inyanga Shalwar +2</legs>
+			<feet>Fili Cothurnes +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="Carol">
+			<main>Carnwenhan</main>
+			<sub>Kali</sub>
+			<range>Gjallarhorn</range>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Mousai Gages +1</hands>
+			<legs>Inyanga Shalwar +2</legs>
+			<feet>Brioso Slippers +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="Mambo">
+			<main>Carnwenhan</main>
+			<sub>Kali</sub>
+			<range>Gjallarhorn</range>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Inyanga Shalwar +2</legs>
+			<feet>Mou. Crackows +1</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="Etude">
+			<main>Carnwenhan</main>
+			<sub>Kali</sub>
+			<range>Gjallarhorn</range>
+			<head>Mousai Turban +1</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Inyanga Shalwar +2</legs>
+			<feet>Brioso Slippers +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="paeon">
+			<main>Carnwenhan</main>
+			<sub>Kali</sub>
+			<range>Gjallarhorn</range>
+			<head>Brioso Roundlet +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Inyanga Shalwar +2</legs>
+			<feet>Brioso Slippers +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="Threnody">
+			<main>Carnwenhan</main>
+			<sub>Ammurapi Shield</sub>
+			<range>Gjallarhorn</range>
+			<head>Fili Calot +3</head>
+			<body>Mou. Manteel +1</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Fili Rhingrave +3</legs>
+			<feet>Fili Cothurnes +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Acuity Belt +1</waist>
+			<ear1>Regal Earring</ear1>
+			<ear2>Crep. Earring</ear2>
+			<ring1>Metamor. Ring +1</ring1>
+			<ring2>Stikini Ring +1</ring2>
+			<back augment="S7931771647437418572">Intarabus's Cape</back>
+		</set>
+		<set name="Operetta">
+			<main>Carnwenhan</main>
+			<sub>Genmei Shield</sub>
+			<range>Daurdabla</range>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Fili Rhingrave +3</legs>
+			<feet>Fili Cothurnes +3</feet>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="horde">
+			<main>Carnwenhan</main>
+			<sub>Ammurapi Shield</sub>
+			<range>Daurdabla</range>
+			<head>Brioso Roundlet +3</head>
+			<body>Brioso Justau. +3</body>
+			<hands>Brioso Cuffs +3</hands>
+			<legs>Inyanga Shalwar +2</legs>
+			<feet>Bihu Slippers +3</feet>
+			<neck>Incanter's Torque</neck>
+			<waist>Harfner's Sash</waist>
+			<ear1>Gersemi Earring</ear1>
+			<ear2>Darkside Earring</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Stikini Ring +1</ring2>
+			<back>Erato's Cape</back>
+		</set>
+		<set name="lullaby">
+			<main>Carnwenhan</main>
+			<sub>Ammurapi Shield</sub>
+			<range>Marsyas</range>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Brioso Cuffs +3</hands>
+			<legs>Inyanga Shalwar +2</legs>
+			<feet>Brioso Slippers +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Acuity Belt +1</waist>
+			<ear1>Regal Earring</ear1>
+			<ear2>Crep. Earring</ear2>
+			<ring1>Stikini Ring +1</ring1>
+			<ring2>Stikini Ring +1</ring2>
+			<back augment="S7931771647437418572">Intarabus's Cape</back>
+		</set>
+		<set name="elegy">
+			<main>Carnwenhan</main>
+			<sub>Ammurapi Shield</sub>
+			<range>Gjallarhorn</range>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Fili Rhingrave +3</legs>
+			<feet>Fili Cothurnes +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Acuity Belt +1</waist>
+			<ear1>Regal Earring</ear1>
+			<ear2>Crep. Earring</ear2>
+			<ring1>Metamor. Ring +1</ring1>
+			<ring2>Stikini Ring +1</ring2>
+			<back augment="S7931771647437418572">Intarabus's Cape</back>
+		</set>
+		<set name="strws">
+			<range augment="S46342852806681">Linos</range>
+			<head>Nyame Helm</head>
+			<body>Bihu Jstcorps. +3</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Rep. Plat. Medal</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>Ishvara Earring</ear2>
+			<ring1>Sroda Ring</ring1>
+			<ring2>Ephramad's Ring</ring2>
+			<back augment="S81366415088128541542727">Intarabus's Cape</back>
+		</set>
+		<set name="nightg">
+		   <feet>Bihu Slippers +3</feet>
+		</set>
+		<set name="SV">
+			<legs augment="M11529">Bihu Cannions +1</legs>
+		</set>
+		<set name="troup">
+			<body augment="M1383">Bihu Jstcorps. +3</body>
+		</set>
+		<set name="dexws">
+			<range>Linos</range>
+			<head>Nyame Helm</head>
+			<body>Bihu Jstcorps. +3</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck>Bard's Charm +2</neck>
+			<waist>Kentarch Belt +1</waist>
+			<ear1>Moonshade Earring</ear1>
+			<ear2>mache Earring +1</ear2>
+			<ring1>Epaminondas's Ring</ring1>
+			<ring2>Ilabrat Ring</ring2>
+			<back augment="S81366415088128541542727">Intarabus's Cape</back>
+		</set>
+		<set name="cure">
+			<main>Daybreak</main>
+			<sub>Ammurapi Shield</sub>
+			<ammo>Pemphredo Tathlum</ammo>
+			<head>Kaykaus Mitra +1</head>
+			<body>Kaykaus Bliaut +1</body>
+			<hands>Kaykaus Cuffs +1</hands>
+			<legs>Kaykaus Tights +1</legs>
+			<feet>Kaykaus Boots +1</feet>
+			<neck>Loricate Torque +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Regal Earring</ear1>
+			<ear2>Etiolation Earring</ear2>
+			<ring1>Moonlight Ring</ring1>
+			<ring2>Defending Ring</ring2>
+			<back>Moonlight Cape</back>
+		</set>
+		<set name="shell">
+			<ammo>Pemphredo Tathlum</ammo>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Fili Rhingrave +2</legs>
+			<feet>Fili Cothurnes +3</feet>
+			<neck>Sanctity Necklace</neck>
+			<waist>Eschan Stone</waist>
+			<ear1>Crep. Earring</ear1>
+			<ear2>Digni. Earring</ear2>
+			<ring1 augment="O2456978194432306">Metamor. Ring +1</ring1>
+			<ring2 augment="O2456978194432358">Cacoethic Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="rime">
+			<ammo>Oshasha's Treatise</ammo>
+			<head augment="O1529771261952443">Nyame Helm</head>
+			<body>Bihu Jstcorps. +3</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck augment="O3728794451968208">Bard's Charm +2</neck>
+			<waist augment="O2456978194432355">Kentarch Belt +1</waist>
+			<ear1>Regal Earring</ear1>
+			<ear2>Ishvara Earring</ear2>
+			<ring1 augment="O2456978194432306">Metamor. Ring +1</ring1>
+			<ring2>Epaminondas's Ring</ring2>
+			<back augment="S81366415088128541542727">Intarabus's Cape</back>
+		</set>
+		<set name="aop">
+			<main>Carnwenhan</main>
+			<sub>Kali</sub>
+			<range>Loughnashade</range>
+			<head>Fili Calot +3</head>
+			<body>Fili Hongreline +3</body>
+			<hands>Fili Manchettes +3</hands>
+			<legs>Inyanga Shalwar +2</legs>
+			<feet>Brioso Slippers +3</feet>
+			<neck>Mnbw. Whistle +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1>Odnowa Earring +1</ear1>
+			<ear2>Tuisto Earring</ear2>
+			<ring1>Defending Ring</ring1>
+			<ring2>Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="dt">
+			<range augment="S19113016455191">Linos</range>
+			<head>Nyame Helm</head>
+			<body>Adamantite Armor</body>
+			<hands>Nyame Gauntlets</hands>
+			<legs>Nyame Flanchard</legs>
+			<feet>Nyame Sollerets</feet>
+			<neck augment="O3728794451968208">Bard's Charm +2</neck>
+			<waist>Sailfi Belt +1</waist>
+			<ear1>Telos Earring</ear1>
+			<ear2>Mache Earring +1</ear2>
+			<ring1>Ephramad's Ring</ring1>
+			<ring2>Chirich Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<set name="idle">
+			<head augment="O1529771196416433">Bunzi's Hat</head>
+			<body>Adamantite Armor</body>
+			<hands augment="O1529771196416435">Bunzi's Gloves</hands>
+			<legs augment="O1529771196416436">Bunzi's Pants</legs>
+			<feet augment="O1529771196416437">Bunzi's Sabots</feet>
+			<neck>Warder's Charm +1</neck>
+			<waist>Plat. Mog. Belt</waist>
+			<ear1 augment="O2456978194432367">Odnowa Earring +1</ear1>
+			<ear2>Eabani Earring</ear2>
+			<ring1>Shneddick Ring +1</ring1>
+			<ring2 augment="O2456978194432316">Gelatinous Ring +1</ring2>
+			<back augment="S79266176080385541542543">Intarabus's Cape</back>
+		</set>
+		<include>
+		</include>
+	</sets>
+	<variables>
+	</variables>
+	<inputcommands>
+	</inputcommands>
+	<idlegear>
+	    <if p_status = "idle"> 
+            <equip set= "idle"/>
+		</if>
+	  <if p_status="engaged">
+         <if advanced="$set=tp">
+             <equip set="tp"/>
+	            </if>
+        <if advanced="$set=dt">
+             <equip set="dt"/>
+               </if>		
+	  </if>			
+	</idlegear>
+	<preranged>
+	</preranged>
+	<midranged>
+	</midranged>
+	<premagic>
+	  <equip set="fastcast"/>
+	</premagic>
+	<midmagic>
+				<if advanced="((%p_subjob!=NIN)&(%p_subjob!=DNC))|(%p_subjoblevel<10)">
+                   <equip><sub>Genmei Shield</sub></equip>
+                </if>	
+	            <if ad_name="Cure*|Curaga*|Cura*">
+				          <equip set="cure"/>
+				</if>		  
+				<if ad_name="Honor March">
+		            <equip set="HM"/>
+		        </if>
+				<elseif ad_name="*Mambo">
+				      <equip set="Mambo"/>
+			    </elseif>		  
+				<elseif ad_name="*Prelude">
+				     <equip set="prelude"/>
+				</elseif>	 
+				<elseif ad_name="Mage's Ballad*">
+					<equip set="ballad"/>	
+                </elseif>
+				<elseif ad_name="*Madrigal">
+					<equip set="madrigal"/>
+				</elseif>
+				<elseif ad_name="*Carol*">
+				     <equip set="carol"/>
+				</elseif>	 
+				<elseif ad_name="*Operetta">
+					<equip set="Operetta"/>
+		        </elseif>
+				<elseif ad_name="Foe Lullaby*">
+					<equip set="lullaby"/>
+		        </elseif>
+				<elseif ad_name="Horde Lullaby*">
+					<equip set="horde"/>
+				</elseif>
+				<elseif ad_name="Knight's Minne*">
+					<equip set="Minne"/>
+				</elseif>			   
+				<elseif ad_name="*Threnody*">
+					<equip set="Threnody"/>
+				</elseif>
+				<elseif ad_name="*Scherzo">
+				     <equip set="scherzo"/>
+				</elseif>	  
+				<elseif ad_name="Army's Paeon*">
+					<equip set="paeon"/>
+	            </elseif>
+				<elseif ad_name="Pining Nocturne|*Elegy|Foe Requiem*|Magic Finale">
+					<equip set="elegy"/>
+				</elseif>
+				<elseif ad_name="Aria of Passion">
+                     <equip set="aop"/>
+				</elseif> 
+				<elseif ad_skill="singing">
+					<equip set="Midsong"/>
+				</elseif>
+            	
+	</midmagic>
+	<jobability>
+	      <if ad_name="Nightingale">
+		      <equip set="nightg"/>
+	     </if>
+		  <if ad_name="Soul Voice">
+		        <equip set="SV"/>
+		</if>
+          <if ad_name="Troubadour">
+                 <equip set="troup"/>
+        </if>				 
+	</jobability>
+	<weaponskill>
+	 <if ad_name="Mordant Rime">
+	          <equip set="rime"/>
+	    </if>		  
+	 <if ad_name="Shell Crusher">
+              <equip set= "shell"/>
+        </if>
+     <if ad_name="Rudra's storm">
+             <equip set="dexws"/>
+        </if>			 
+       <else>
+             <equip set ="strws"/>
+	</if>		 
+	</weaponskill>
+</ashitacast>
